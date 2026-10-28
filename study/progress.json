@@ -563,13 +563,31 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Microsoft Learn confirms Finance and Operations AI security role for Copilot in Dynamics 365 Finance, though the specified prebuilt accounts-payable invoice-processing feature is unclear."
+    },
+    {
+      "question_id": 50,
+      "selected_answer": [
+        "C",
+        "E"
+      ],
+      "graded_answer": [
+        "B",
+        "E"
+      ],
+      "points_earned": 1,
+      "points_possible": 2,
+      "correct": false,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Copilot Studio configures escalation and Transfer conversation; customer engagement hub receives/routs live agent handoff. C is not required. Microsoft Learn advanced-hand-off."
     }
   ],
   "summary": {
-    "attempted": 49,
+    "attempted": 50,
     "correct": 35,
-    "incorrect": 14,
-    "next_question_id": 50,
-    "resume_question_id": 50
+    "incorrect": 15,
+    "next_question_id": 51,
+    "resume_question_id": 51
   }
 }
