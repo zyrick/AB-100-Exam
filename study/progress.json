@@ -53,12 +53,27 @@
       "audit_status": "supported",
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1"
+    },
+    {
+      "question_id": 7,
+      "selected_answer": [
+        "Define standardized prompt templates.",
+        "Store prompts in a Git repository."
+      ],
+      "graded_answer": [
+        "Define standardized prompt templates.",
+        "Store prompts in a Git repository."
+      ],
+      "correct": true,
+      "audit_status": "source_image_verified",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1"
     }
   ],
   "summary": {
-    "attempted": 5,
-    "correct": 4,
+    "attempted": 6,
+    "correct": 5,
     "incorrect": 1,
-    "next_question_id": 7
+    "next_question_id": 8
   }
 }
