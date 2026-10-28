@@ -923,13 +923,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Copilot Studio Analytics measures agent adoption; Azure Cost Optimization workbook addresses resource spending. Adoption alone is not ROI."
+    },
+    {
+      "question_id": 78,
+      "selected_answer": "B",
+      "graded_answer": "B",
+      "correct": true,
+      "audit_status": "provisionally_consistent",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Foundry custom model can be connected for Copilot Studio prompt tool; distinct from connecting a Foundry agent."
     }
   ],
   "summary": {
-    "attempted": 77,
-    "correct": 49,
+    "attempted": 78,
+    "correct": 50,
     "incorrect": 28,
-    "next_question_id": 78,
-    "resume_question_id": 78
+    "next_question_id": 79,
+    "resume_question_id": 79
   }
 }
