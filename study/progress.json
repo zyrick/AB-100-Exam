@@ -665,13 +665,31 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Low-code agent and workflow automation supported by Microsoft Learn."
+    },
+    {
+      "question_id": 57,
+      "selected_answer": {
+        "Custom knowledge sources": "Must be uploaded to the agent",
+        "AI general knowledge": "Must be enabled for the agent"
+      },
+      "graded_answer": {
+        "Custom knowledge sources": "Must be uploaded to the agent",
+        "AI general knowledge": "Must be enabled for the agent"
+      },
+      "points_earned": 2,
+      "points_possible": 2,
+      "correct": true,
+      "audit_status": "source_image_verified_with_caveat",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Original image18 confirms 2/2 source answers. Microsoft Learn contradicts mandatory general knowledge for minimized hallucinations; warns it increases inaccurate content risk. Knowledge may be connected rather than uploaded."
     }
   ],
   "summary": {
-    "attempted": 56,
-    "correct": 40,
+    "attempted": 57,
+    "correct": 41,
     "incorrect": 16,
-    "next_question_id": 57,
-    "resume_question_id": 57
+    "next_question_id": 58,
+    "resume_question_id": 58
   }
 }
