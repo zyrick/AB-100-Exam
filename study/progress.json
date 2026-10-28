@@ -721,13 +721,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Classic Dataverse workflows automate predefined actions; they do not provide native CRM-grounded generative Outlook email and meeting assistance."
+    },
+    {
+      "question_id": 61,
+      "selected_answer": "A",
+      "graded_answer": "B",
+      "correct": false,
+      "audit_status": "provisionally_consistent",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Source answer B; generic template is not the specialized Sales agent."
     }
   ],
   "summary": {
-    "attempted": 60,
+    "attempted": 61,
     "correct": 43,
-    "incorrect": 17,
-    "next_question_id": 61,
-    "resume_question_id": 61
+    "incorrect": 18,
+    "next_question_id": 62,
+    "resume_question_id": 62
   }
 }
