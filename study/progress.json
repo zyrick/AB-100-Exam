@@ -261,13 +261,31 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Matches source key; Microsoft Learn confirms endorsement alone does not configure AI grounding or grant access. Question technically flawed."
+    },
+    {
+      "question_id": 24,
+      "selected_answer": {
+        "fulfillment_shipping": "Autonomous",
+        "historical_analysis_replenishment": "Task"
+      },
+      "graded_answer": {
+        "fulfillment_shipping": "Autonomous",
+        "historical_analysis_replenishment": "Autonomous"
+      },
+      "correct": false,
+      "points_earned": 1,
+      "points_possible": 2,
+      "audit_status": "source_image_verified",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Original answer image46.png marks Autonomous for both. The second requirement is somewhat ambiguous if only analysis, rather than automated replenishment, is intended."
     }
   ],
   "summary": {
-    "attempted": 23,
+    "attempted": 24,
     "correct": 19,
-    "incorrect": 4,
-    "next_question_id": 24,
-    "resume_question_id": 24
+    "incorrect": 5,
+    "next_question_id": 25,
+    "resume_question_id": 25
   }
 }
