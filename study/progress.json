@@ -701,13 +701,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Original image20.png confirms topics plus Power Automate. Microsoft Learn: topics manage conversational flows; agent flows manage business processes. Agent instructions additionally define global constraints."
+    },
+    {
+      "question_id": 59,
+      "selected_answer": "A",
+      "graded_answer": "A",
+      "correct": true,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Microsoft Learn confirms Sales agent (formerly Copilot for Sales) summarizes emails, drafts Outlook replies and prepares CRM-context meeting summaries."
     }
   ],
   "summary": {
-    "attempted": 58,
-    "correct": 41,
+    "attempted": 59,
+    "correct": 42,
     "incorrect": 17,
-    "next_question_id": 59,
-    "resume_question_id": 59
+    "next_question_id": 60,
+    "resume_question_id": 60
   }
 }
