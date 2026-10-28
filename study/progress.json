@@ -345,13 +345,31 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Original answer image50.png marks Azure OpenAI Foundry and AI Builder prebuilt model. Product naming is non-standard, and AI Builder prebuilt prompt is potentially more specific for summarization."
+    },
+    {
+      "question_id": 30,
+      "selected_answer": {
+        "overdue_vendor_invoices": "The Account Reconciliation agent",
+        "review_payment_history": "Collections coordinator summary"
+      },
+      "graded_answer": {
+        "overdue_vendor_invoices": "The Account Reconciliation agent",
+        "review_payment_history": "Collections coordinator summary"
+      },
+      "correct": true,
+      "points_earned": 2,
+      "points_possible": 2,
+      "audit_status": "source_image_verified",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Direct comparison with question image51.png and circled answer image52.png."
     }
   ],
   "summary": {
-    "attempted": 29,
-    "correct": 22,
+    "attempted": 30,
+    "correct": 23,
     "incorrect": 7,
-    "next_question_id": 30,
-    "resume_question_id": 30
+    "next_question_id": 31,
+    "resume_question_id": 31
   }
 }
