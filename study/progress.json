@@ -435,13 +435,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Azure Pricing Calculator estimates costs based on anticipated resource usage, Microsoft Learn."
+    },
+    {
+      "question_id": 38,
+      "selected_answer": "D",
+      "graded_answer": "D",
+      "correct": true,
+      "audit_status": "question_flawed",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Matches source key. Microsoft Learn: Azure Pricing Calculator is appropriate for estimating planned new Azure AI workload costs; Cost Management + Billing forecasts historical existing spend. Preferred option is absent."
     }
   ],
   "summary": {
-    "attempted": 37,
-    "correct": 28,
+    "attempted": 38,
+    "correct": 29,
     "incorrect": 9,
-    "next_question_id": 38,
-    "resume_question_id": 38
+    "next_question_id": 39,
+    "resume_question_id": 39
   }
 }
