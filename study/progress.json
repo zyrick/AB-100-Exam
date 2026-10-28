@@ -1009,13 +1009,31 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Original answer image marks Bicep; Azure DevOps CI/CD is also directly supported for unattended Foundry agent deployment, typically using Bicep for infrastructure."
+    },
+    {
+      "question_id": 85,
+      "selected_answer": {
+        "Provides effective and relevant responses": "Generated answer rate and quality",
+        "Provides conversational outcomes": "Satisfaction"
+      },
+      "graded_answer": {
+        "Provides effective and relevant responses": "Generated answer rate and quality",
+        "Provides conversational outcomes": "Satisfaction"
+      },
+      "points_earned": 2,
+      "points_possible": 2,
+      "correct": true,
+      "audit_status": "source_image_verified_with_technical_caution",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Original answer screenshot confirms both selections. Satisfaction is CSAT; current Copilot Studio tracks resolved/escalated outcomes separately."
     }
   ],
   "summary": {
-    "attempted": 84,
-    "correct": 51,
+    "attempted": 85,
+    "correct": 52,
     "incorrect": 33,
-    "next_question_id": 85,
-    "resume_question_id": 85
+    "next_question_id": 86,
+    "resume_question_id": 86
   }
 }
