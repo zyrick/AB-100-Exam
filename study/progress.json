@@ -991,13 +991,31 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Solutions and pipelines manage connectors; environment variables store configuration."
+    },
+    {
+      "question_id": 84,
+      "selected_answer": {
+        "Copilot Studio": "Use a Microsoft Power Platform deployment pipeline.",
+        "Microsoft Foundry": "Use an Azure DevOps pipeline."
+      },
+      "graded_answer": {
+        "Copilot Studio": "Use a Microsoft Power Platform deployment pipeline.",
+        "Microsoft Foundry": "Use a Bicep file."
+      },
+      "points_earned": 1,
+      "points_possible": 2,
+      "correct": false,
+      "audit_status": "source_image_verified_with_technical_caution",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Original answer image marks Bicep; Azure DevOps CI/CD is also directly supported for unattended Foundry agent deployment, typically using Bicep for infrastructure."
     }
   ],
   "summary": {
-    "attempted": 83,
+    "attempted": 84,
     "correct": 51,
-    "incorrect": 32,
-    "next_question_id": 84,
-    "resume_question_id": 84
+    "incorrect": 33,
+    "next_question_id": 85,
+    "resume_question_id": 85
   }
 }
