@@ -157,12 +157,22 @@
       "audit_status": "source_image_verified",
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1"
+    },
+    {
+      "question_id": 16,
+      "selected_answer": "D",
+      "graded_answer": "D",
+      "correct": true,
+      "audit_status": "caution",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Matches source answer. Microsoft Learn confirms region movement consent may be required; enabling is not sufficient without applicable organization and connector policy checks."
     }
   ],
   "summary": {
-    "attempted": 14,
-    "correct": 13,
+    "attempted": 15,
+    "correct": 14,
     "incorrect": 1,
-    "next_question_id": 16
+    "next_question_id": 17
   }
 }
