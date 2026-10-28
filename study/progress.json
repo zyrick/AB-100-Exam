@@ -385,13 +385,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Microsoft Learn confirms generative orchestration selects topics/connected agents by descriptions, in contrast to classic trigger phrases."
+    },
+    {
+      "question_id": 33,
+      "selected_answer": "C",
+      "graded_answer": "C",
+      "correct": true,
+      "audit_status": "provisionally_consistent",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Matches audit; supported by Microsoft guidance on fairness, biased data and input data validation."
     }
   ],
   "summary": {
-    "attempted": 32,
-    "correct": 24,
+    "attempted": 33,
+    "correct": 25,
     "incorrect": 8,
-    "next_question_id": 33,
-    "resume_question_id": 33
+    "next_question_id": 34,
+    "resume_question_id": 34
   }
 }
