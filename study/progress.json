@@ -807,13 +807,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Microsoft Learn verifies Copilot in Field Service for work-order insights and Field Service mobile app for frontline visits. Mobile features depend on enablement and some are preview."
+    },
+    {
+      "question_id": 68,
+      "selected_answer": "B",
+      "graded_answer": "B",
+      "correct": true,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Microsoft Learn: Foundry agents discover and invoke MCP server tools, and Foundry Toolbox tools can change without changing agent code. Server must be connected and authorized."
     }
   ],
   "summary": {
-    "attempted": 67,
-    "correct": 45,
+    "attempted": 68,
+    "correct": 46,
     "incorrect": 22,
-    "next_question_id": 68,
-    "resume_question_id": 68
+    "next_question_id": 69,
+    "resume_question_id": 69
   }
 }
