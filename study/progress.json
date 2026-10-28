@@ -211,13 +211,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Original image44.png shows varied phrasing and response relevance/accuracy; first selection incorrect, second correct."
+    },
+    {
+      "question_id": 19,
+      "selected_answer": "C",
+      "graded_answer": "C",
+      "correct": true,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Microsoft Learn confirms Copilot Studio agents can move environments through solutions; managed solutions preferred for production ALM."
     }
   ],
   "summary": {
-    "attempted": 18,
-    "correct": 16,
+    "attempted": 19,
+    "correct": 17,
     "incorrect": 2,
-    "next_question_id": 19,
-    "resume_question_id": 19
+    "next_question_id": 20,
+    "resume_question_id": 20
   }
 }
