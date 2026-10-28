@@ -553,13 +553,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Microsoft 365 Copilot grounds SharePoint/Teams organizational context via Microsoft Graph with existing access controls; no custom SharePoint crawler required. Narrow site selection may require knowledge source configuration."
+    },
+    {
+      "question_id": 49,
+      "selected_answer": "A",
+      "graded_answer": "D",
+      "correct": false,
+      "audit_status": "caution",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Microsoft Learn confirms Finance and Operations AI security role for Copilot in Dynamics 365 Finance, though the specified prebuilt accounts-payable invoice-processing feature is unclear."
     }
   ],
   "summary": {
-    "attempted": 48,
+    "attempted": 49,
     "correct": 35,
-    "incorrect": 13,
-    "next_question_id": 49,
-    "resume_question_id": 49
+    "incorrect": 14,
+    "next_question_id": 50,
+    "resume_question_id": 50
   }
 }
