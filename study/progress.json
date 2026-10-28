@@ -741,13 +741,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Microsoft Learn verifies solution-aware custom connectors and managed deployment across environments."
+    },
+    {
+      "question_id": 63,
+      "selected_answer": "D",
+      "graded_answer": "A",
+      "correct": false,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Computer Use visually adapts to changing web UI; agent flows automate defined business processes."
     }
   ],
   "summary": {
-    "attempted": 62,
+    "attempted": 63,
     "correct": 44,
-    "incorrect": 18,
-    "next_question_id": 63,
-    "resume_question_id": 63
+    "incorrect": 19,
+    "next_question_id": 64,
+    "resume_question_id": 64
   }
 }
