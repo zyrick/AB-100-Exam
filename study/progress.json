@@ -943,13 +943,31 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Power Platform solutions package solution components and dependencies; Azure DevOps automates deployments."
+    },
+    {
+      "question_id": 80,
+      "selected_answer": [
+        "A",
+        "B"
+      ],
+      "graded_answer": [
+        "A",
+        "D"
+      ],
+      "points_earned": 1,
+      "points_possible": 2,
+      "correct": false,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Purview provides AI data governance; Defender provides agent threat detection. Azure AI Content Safety filters harmful content."
     }
   ],
   "summary": {
-    "attempted": 79,
+    "attempted": 80,
     "correct": 50,
-    "incorrect": 29,
-    "next_question_id": 80,
-    "resume_question_id": 80
+    "incorrect": 30,
+    "next_question_id": 81,
+    "resume_question_id": 81
   }
 }
