@@ -1,0 +1,1095 @@
+{
+  "title": "AB-100 answer quality audit (initial review)",
+  "disclaimer": "Source answers are community content, not official Microsoft answer keys. The audit identifies provisional corrections and warnings. Supported means checked for technical plausibility, not independently certified as an official exam answer. Image questions remain unvalidated until visually reviewed.",
+  "last_review": "2026-10-28",
+  "stats": {
+    "image_review_required": 33,
+    "awaiting_individual_validation": 56,
+    "supported": 26,
+    "caution": 3,
+    "recommended_change": 1,
+    "question_flawed": 1
+  },
+  "audit": [
+    {
+      "question_id": 1,
+      "source_answer": null,
+      "proposed_answer": null,
+      "review_status": "image_review_required",
+      "confidence": "unassessed",
+      "reason": "The answer is embedded in an image. Do not treat the text-only extraction as verification.",
+      "source_url": null
+    },
+    {
+      "question_id": 2,
+      "source_answer": "A",
+      "proposed_answer": "A",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 3,
+      "source_answer": "B",
+      "proposed_answer": "B",
+      "review_status": "supported",
+      "confidence": "medium",
+      "reason": "Business-friendly display names align with terminology; no need to create replacement fields.",
+      "source_url": null
+    },
+    {
+      "question_id": 4,
+      "source_answer": null,
+      "proposed_answer": null,
+      "review_status": "image_review_required",
+      "confidence": "unassessed",
+      "reason": "The answer is embedded in an image. Do not treat the text-only extraction as verification.",
+      "source_url": null
+    },
+    {
+      "question_id": 5,
+      "source_answer": "D",
+      "proposed_answer": "D",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 6,
+      "source_answer": "B",
+      "proposed_answer": "B",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 7,
+      "source_answer": null,
+      "proposed_answer": null,
+      "review_status": "image_review_required",
+      "confidence": "unassessed",
+      "reason": "The answer is embedded in an image. Do not treat the text-only extraction as verification.",
+      "source_url": null
+    },
+    {
+      "question_id": 8,
+      "source_answer": null,
+      "proposed_answer": null,
+      "review_status": "image_review_required",
+      "confidence": "unassessed",
+      "reason": "The answer is embedded in an image. Do not treat the text-only extraction as verification.",
+      "source_url": null
+    },
+    {
+      "question_id": 9,
+      "source_answer": "C",
+      "proposed_answer": "C",
+      "review_status": "supported",
+      "confidence": "medium",
+      "reason": "A human analyst remains the final decision maker for fraud escalations.",
+      "source_url": null
+    },
+    {
+      "question_id": 10,
+      "source_answer": "A",
+      "proposed_answer": "A",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 11,
+      "source_answer": "D",
+      "proposed_answer": "D",
+      "review_status": "supported",
+      "confidence": "medium",
+      "reason": "One Dataverse catalog avoids isolated per-agent copies.",
+      "source_url": null
+    },
+    {
+      "question_id": 12,
+      "source_answer": "B",
+      "proposed_answer": "B",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 13,
+      "source_answer": "A",
+      "proposed_answer": "A",
+      "review_status": "supported",
+      "confidence": "medium",
+      "reason": "Dataverse provides shared enterprise data for Power Platform and Copilot integrations.",
+      "source_url": null
+    },
+    {
+      "question_id": 14,
+      "source_answer": "D",
+      "proposed_answer": "D",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 15,
+      "source_answer": null,
+      "proposed_answer": null,
+      "review_status": "image_review_required",
+      "confidence": "unassessed",
+      "reason": "The answer is embedded in an image. Do not treat the text-only extraction as verification.",
+      "source_url": null
+    },
+    {
+      "question_id": 16,
+      "source_answer": "D",
+      "proposed_answer": "D",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 17,
+      "source_answer": null,
+      "proposed_answer": null,
+      "review_status": "image_review_required",
+      "confidence": "unassessed",
+      "reason": "The answer is embedded in an image. Do not treat the text-only extraction as verification.",
+      "source_url": null
+    },
+    {
+      "question_id": 18,
+      "source_answer": null,
+      "proposed_answer": null,
+      "review_status": "image_review_required",
+      "confidence": "unassessed",
+      "reason": "The answer is embedded in an image. Do not treat the text-only extraction as verification.",
+      "source_url": null
+    },
+    {
+      "question_id": 19,
+      "source_answer": "C",
+      "proposed_answer": "C",
+      "review_status": "supported",
+      "confidence": "medium",
+      "reason": "Use a managed solution when deploying to production.",
+      "source_url": null
+    },
+    {
+      "question_id": 20,
+      "source_answer": "B",
+      "proposed_answer": "B",
+      "review_status": "supported",
+      "confidence": "medium",
+      "reason": "Improve inaccurate grounding by first cleaning and validating the data source.",
+      "source_url": null
+    },
+    {
+      "question_id": 21,
+      "source_answer": "C",
+      "proposed_answer": "C",
+      "review_status": "supported",
+      "confidence": "medium",
+      "reason": "Connectors enable Copilot Studio to interact with heterogeneous enterprise sources.",
+      "source_url": null
+    },
+    {
+      "question_id": 22,
+      "source_answer": "D",
+      "proposed_answer": "D",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 23,
+      "source_answer": "C",
+      "proposed_answer": "C",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 24,
+      "source_answer": null,
+      "proposed_answer": null,
+      "review_status": "image_review_required",
+      "confidence": "unassessed",
+      "reason": "The answer is embedded in an image. Do not treat the text-only extraction as verification.",
+      "source_url": null
+    },
+    {
+      "question_id": 25,
+      "source_answer": "B",
+      "proposed_answer": "B",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 26,
+      "source_answer": "C",
+      "proposed_answer": "C",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 27,
+      "source_answer": null,
+      "proposed_answer": null,
+      "review_status": "image_review_required",
+      "confidence": "unassessed",
+      "reason": "The answer is embedded in an image. Do not treat the text-only extraction as verification.",
+      "source_url": null
+    },
+    {
+      "question_id": 28,
+      "source_answer": "C",
+      "proposed_answer": "C",
+      "review_status": "caution",
+      "confidence": "low",
+      "reason": "The TCO calculator is the closest listed option, but for estimating anticipated Azure service spend the Azure Pricing Calculator is normally recommended; the options are weak.",
+      "source_url": "https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/pricing-calculator"
+    },
+    {
+      "question_id": 29,
+      "source_answer": null,
+      "proposed_answer": null,
+      "review_status": "image_review_required",
+      "confidence": "unassessed",
+      "reason": "The answer is embedded in an image. Do not treat the text-only extraction as verification.",
+      "source_url": null
+    },
+    {
+      "question_id": 30,
+      "source_answer": null,
+      "proposed_answer": null,
+      "review_status": "image_review_required",
+      "confidence": "unassessed",
+      "reason": "The answer is embedded in an image. Do not treat the text-only extraction as verification.",
+      "source_url": null
+    },
+    {
+      "question_id": 31,
+      "source_answer": "AC",
+      "proposed_answer": "AC",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 32,
+      "source_answer": "C",
+      "proposed_answer": "C",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 33,
+      "source_answer": "C",
+      "proposed_answer": "C",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 34,
+      "source_answer": "C",
+      "proposed_answer": "C",
+      "review_status": "supported",
+      "confidence": "medium",
+      "reason": "Azure Pricing Calculator is designed to estimate anticipated Azure costs.",
+      "source_url": "https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/pricing-calculator"
+    },
+    {
+      "question_id": 35,
+      "source_answer": "C",
+      "proposed_answer": "C",
+      "review_status": "caution",
+      "confidence": "low",
+      "reason": "Cost Management + Billing principally analyzes existing usage and spend, rather than pricing a proposed new deployment; the correct tool for forward estimates is absent.",
+      "source_url": "https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/pricing-calculator"
+    },
+    {
+      "question_id": 36,
+      "source_answer": "D",
+      "proposed_answer": "D",
+      "review_status": "supported",
+      "confidence": "medium",
+      "reason": "Azure Pricing Calculator estimates future Azure charges.",
+      "source_url": "https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/pricing-calculator"
+    },
+    {
+      "question_id": 37,
+      "source_answer": "B",
+      "proposed_answer": "B",
+      "review_status": "supported",
+      "confidence": "medium",
+      "reason": "Azure Pricing Calculator estimates future Azure charges.",
+      "source_url": "https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/pricing-calculator"
+    },
+    {
+      "question_id": 38,
+      "source_answer": "D",
+      "proposed_answer": "D",
+      "review_status": "caution",
+      "confidence": "low",
+      "reason": "Cost Management + Billing is mainly for incurred spend and forecasts based on usage; Azure Pricing Calculator is preferable for predeployment estimation but is missing from these options.",
+      "source_url": "https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/pricing-calculator"
+    },
+    {
+      "question_id": 39,
+      "source_answer": "A",
+      "proposed_answer": "A",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 40,
+      "source_answer": "D",
+      "proposed_answer": "D",
+      "review_status": "supported",
+      "confidence": "medium",
+      "reason": "Application Insights supports detailed Copilot Studio agent telemetry.",
+      "source_url": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/telemetry-overview"
+    },
+    {
+      "question_id": 41,
+      "source_answer": "A",
+      "proposed_answer": "A",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 42,
+      "source_answer": "C",
+      "proposed_answer": "C",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 43,
+      "source_answer": "C",
+      "proposed_answer": "C",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 44,
+      "source_answer": "A",
+      "proposed_answer": "A",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 45,
+      "source_answer": "C",
+      "proposed_answer": "C",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 46,
+      "source_answer": "B",
+      "proposed_answer": "B",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 47,
+      "source_answer": null,
+      "proposed_answer": null,
+      "review_status": "image_review_required",
+      "confidence": "unassessed",
+      "reason": "The answer is embedded in an image. Do not treat the text-only extraction as verification.",
+      "source_url": null
+    },
+    {
+      "question_id": 48,
+      "source_answer": "D",
+      "proposed_answer": "D",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 49,
+      "source_answer": "D",
+      "proposed_answer": "D",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 50,
+      "source_answer": "BE",
+      "proposed_answer": "BE",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 51,
+      "source_answer": null,
+      "proposed_answer": null,
+      "review_status": "image_review_required",
+      "confidence": "unassessed",
+      "reason": "The answer is embedded in an image. Do not treat the text-only extraction as verification.",
+      "source_url": null
+    },
+    {
+      "question_id": 52,
+      "source_answer": null,
+      "proposed_answer": null,
+      "review_status": "image_review_required",
+      "confidence": "unassessed",
+      "reason": "The answer is embedded in an image. Do not treat the text-only extraction as verification.",
+      "source_url": null
+    },
+    {
+      "question_id": 53,
+      "source_answer": null,
+      "proposed_answer": null,
+      "review_status": "image_review_required",
+      "confidence": "unassessed",
+      "reason": "The answer is embedded in an image. Do not treat the text-only extraction as verification.",
+      "source_url": null
+    },
+    {
+      "question_id": 54,
+      "source_answer": "C",
+      "proposed_answer": "C",
+      "review_status": "supported",
+      "confidence": "medium",
+      "reason": "Computer Use interacts with interfaces using clicks, typing, and screen reading.",
+      "source_url": null
+    },
+    {
+      "question_id": 55,
+      "source_answer": "E",
+      "proposed_answer": "E",
+      "review_status": "supported",
+      "confidence": "medium",
+      "reason": "Escalate topic handles handoff to a live agent in Copilot Studio.",
+      "source_url": null
+    },
+    {
+      "question_id": 56,
+      "source_answer": "D",
+      "proposed_answer": "D",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 57,
+      "source_answer": null,
+      "proposed_answer": null,
+      "review_status": "image_review_required",
+      "confidence": "unassessed",
+      "reason": "The answer is embedded in an image. Do not treat the text-only extraction as verification.",
+      "source_url": null
+    },
+    {
+      "question_id": 58,
+      "source_answer": null,
+      "proposed_answer": null,
+      "review_status": "image_review_required",
+      "confidence": "unassessed",
+      "reason": "The answer is embedded in an image. Do not treat the text-only extraction as verification.",
+      "source_url": null
+    },
+    {
+      "question_id": 59,
+      "source_answer": "A",
+      "proposed_answer": "A",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 60,
+      "source_answer": "B",
+      "proposed_answer": "B",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 61,
+      "source_answer": "B",
+      "proposed_answer": "B",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 62,
+      "source_answer": "D",
+      "proposed_answer": "D",
+      "review_status": "supported",
+      "confidence": "medium",
+      "reason": "A custom connector is added as a solution component to support ALM.",
+      "source_url": null
+    },
+    {
+      "question_id": 63,
+      "source_answer": "A",
+      "proposed_answer": "A",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 64,
+      "source_answer": "C",
+      "proposed_answer": "C",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 65,
+      "source_answer": "B",
+      "proposed_answer": "B",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 66,
+      "source_answer": null,
+      "proposed_answer": null,
+      "review_status": "image_review_required",
+      "confidence": "unassessed",
+      "reason": "The answer is embedded in an image. Do not treat the text-only extraction as verification.",
+      "source_url": null
+    },
+    {
+      "question_id": 67,
+      "source_answer": "EF",
+      "proposed_answer": "EF",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 68,
+      "source_answer": "B",
+      "proposed_answer": "B",
+      "review_status": "supported",
+      "confidence": "medium",
+      "reason": "MCP supports discoverable tools at runtime.",
+      "source_url": null
+    },
+    {
+      "question_id": 69,
+      "source_answer": "A",
+      "proposed_answer": "A",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 70,
+      "source_answer": "B",
+      "proposed_answer": "B",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 71,
+      "source_answer": "B",
+      "proposed_answer": "B",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 72,
+      "source_answer": "A",
+      "proposed_answer": "A",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 73,
+      "source_answer": null,
+      "proposed_answer": null,
+      "review_status": "image_review_required",
+      "confidence": "unassessed",
+      "reason": "The answer is embedded in an image. Do not treat the text-only extraction as verification.",
+      "source_url": null
+    },
+    {
+      "question_id": 74,
+      "source_answer": "B",
+      "proposed_answer": "B",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 75,
+      "source_answer": "C",
+      "proposed_answer": "C",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 76,
+      "source_answer": null,
+      "proposed_answer": null,
+      "review_status": "image_review_required",
+      "confidence": "unassessed",
+      "reason": "The answer is embedded in an image. Do not treat the text-only extraction as verification.",
+      "source_url": null
+    },
+    {
+      "question_id": 77,
+      "source_answer": "D",
+      "proposed_answer": "D",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 78,
+      "source_answer": "B",
+      "proposed_answer": "B",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 79,
+      "source_answer": "C",
+      "proposed_answer": "C",
+      "review_status": "supported",
+      "confidence": "medium",
+      "reason": "Power Platform solutions package app, agent, Dataverse and flow components for ALM.",
+      "source_url": null
+    },
+    {
+      "question_id": 80,
+      "source_answer": "AD",
+      "proposed_answer": "AD",
+      "review_status": "supported",
+      "confidence": "medium",
+      "reason": "Purview addresses data protection/compliance; Defender addresses threat protection.",
+      "source_url": null
+    },
+    {
+      "question_id": 81,
+      "source_answer": "B",
+      "proposed_answer": "B",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 82,
+      "source_answer": "B",
+      "proposed_answer": "B",
+      "review_status": "supported",
+      "confidence": "medium",
+      "reason": "Azure Policy can enforce approved regions and assess compliance.",
+      "source_url": null
+    },
+    {
+      "question_id": 83,
+      "source_answer": "B",
+      "proposed_answer": "B",
+      "review_status": "supported",
+      "confidence": "medium",
+      "reason": "Solution components and ALM pipelines promote connectors consistently.",
+      "source_url": null
+    },
+    {
+      "question_id": 84,
+      "source_answer": null,
+      "proposed_answer": null,
+      "review_status": "image_review_required",
+      "confidence": "unassessed",
+      "reason": "The answer is embedded in an image. Do not treat the text-only extraction as verification.",
+      "source_url": null
+    },
+    {
+      "question_id": 85,
+      "source_answer": null,
+      "proposed_answer": null,
+      "review_status": "image_review_required",
+      "confidence": "unassessed",
+      "reason": "The answer is embedded in an image. Do not treat the text-only extraction as verification.",
+      "source_url": null
+    },
+    {
+      "question_id": 86,
+      "source_answer": "CD",
+      "proposed_answer": "CD",
+      "review_status": "supported",
+      "confidence": "medium",
+      "reason": "Power Platform pipelines and solutions support repeatable agent release.",
+      "source_url": null
+    },
+    {
+      "question_id": 87,
+      "source_answer": null,
+      "proposed_answer": null,
+      "review_status": "image_review_required",
+      "confidence": "unassessed",
+      "reason": "The answer is embedded in an image. Do not treat the text-only extraction as verification.",
+      "source_url": null
+    },
+    {
+      "question_id": 88,
+      "source_answer": "A",
+      "proposed_answer": "A",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 89,
+      "source_answer": null,
+      "proposed_answer": null,
+      "review_status": "image_review_required",
+      "confidence": "unassessed",
+      "reason": "The answer is embedded in an image. Do not treat the text-only extraction as verification.",
+      "source_url": null
+    },
+    {
+      "question_id": 90,
+      "source_answer": null,
+      "proposed_answer": null,
+      "review_status": "image_review_required",
+      "confidence": "unassessed",
+      "reason": "The answer is embedded in an image. Do not treat the text-only extraction as verification.",
+      "source_url": null
+    },
+    {
+      "question_id": 91,
+      "source_answer": "CE",
+      "proposed_answer": "CE",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 92,
+      "source_answer": "AE",
+      "proposed_answer": "AE",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 93,
+      "source_answer": null,
+      "proposed_answer": null,
+      "review_status": "image_review_required",
+      "confidence": "unassessed",
+      "reason": "The answer is embedded in an image. Do not treat the text-only extraction as verification.",
+      "source_url": null
+    },
+    {
+      "question_id": 94,
+      "source_answer": "E",
+      "proposed_answer": "E",
+      "review_status": "supported",
+      "confidence": "medium",
+      "reason": "Microsoft Purview is appropriate for auditing/governance of sensitive data usage; Azure Policy is policy enforcement.",
+      "source_url": null
+    },
+    {
+      "question_id": 95,
+      "source_answer": null,
+      "proposed_answer": null,
+      "review_status": "image_review_required",
+      "confidence": "unassessed",
+      "reason": "The answer is embedded in an image. Do not treat the text-only extraction as verification.",
+      "source_url": null
+    },
+    {
+      "question_id": 96,
+      "source_answer": null,
+      "proposed_answer": null,
+      "review_status": "image_review_required",
+      "confidence": "unassessed",
+      "reason": "The answer is embedded in an image. Do not treat the text-only extraction as verification.",
+      "source_url": null
+    },
+    {
+      "question_id": 97,
+      "source_answer": "A",
+      "proposed_answer": "A",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 98,
+      "source_answer": "A",
+      "proposed_answer": "A",
+      "review_status": "supported",
+      "confidence": "medium",
+      "reason": "Application Insights provides deep telemetry.",
+      "source_url": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/telemetry-overview"
+    },
+    {
+      "question_id": 99,
+      "source_answer": "AD",
+      "proposed_answer": "AD",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 100,
+      "source_answer": "A",
+      "proposed_answer": "C",
+      "review_status": "recommended_change",
+      "confidence": "medium",
+      "reason": "Constraining the amount of retrieved content placed into prompts directly reduces input tokens; the source answer A (chunking) can help but alone does not ensure less context is sent. Preserve relevant ranked passages.",
+      "source_url": "https://learn.microsoft.com/azure/ai-studio/concepts/retrieval-augmented-generation"
+    },
+    {
+      "question_id": 101,
+      "source_answer": null,
+      "proposed_answer": null,
+      "review_status": "image_review_required",
+      "confidence": "unassessed",
+      "reason": "The answer is embedded in an image. Do not treat the text-only extraction as verification.",
+      "source_url": null
+    },
+    {
+      "question_id": 102,
+      "source_answer": "D",
+      "proposed_answer": "D",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 103,
+      "source_answer": "D",
+      "proposed_answer": "D",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 104,
+      "source_answer": null,
+      "proposed_answer": null,
+      "review_status": "image_review_required",
+      "confidence": "unassessed",
+      "reason": "The answer is embedded in an image. Do not treat the text-only extraction as verification.",
+      "source_url": null
+    },
+    {
+      "question_id": 105,
+      "source_answer": "C",
+      "proposed_answer": "C",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 106,
+      "source_answer": "C",
+      "proposed_answer": "C",
+      "review_status": "supported",
+      "confidence": "medium",
+      "reason": "Power Platform data policies govern connector use and data movement.",
+      "source_url": null
+    },
+    {
+      "question_id": 107,
+      "source_answer": "CD",
+      "proposed_answer": "CD",
+      "review_status": "supported",
+      "confidence": "medium",
+      "reason": "Clear instructions and iterative prompt evaluation are established prompt practices.",
+      "source_url": null
+    },
+    {
+      "question_id": 108,
+      "source_answer": null,
+      "proposed_answer": null,
+      "review_status": "image_review_required",
+      "confidence": "unassessed",
+      "reason": "The answer is embedded in an image. Do not treat the text-only extraction as verification.",
+      "source_url": null
+    },
+    {
+      "question_id": 109,
+      "source_answer": "AE",
+      "proposed_answer": "AE",
+      "review_status": "supported",
+      "confidence": "medium",
+      "reason": "Bundle agents and connectors in solutions and deploy managed solutions to production.",
+      "source_url": null
+    },
+    {
+      "question_id": 110,
+      "source_answer": "A",
+      "proposed_answer": "A",
+      "review_status": "supported",
+      "confidence": "medium",
+      "reason": "Application Insights can collect comprehensive agent telemetry.",
+      "source_url": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/telemetry-overview"
+    },
+    {
+      "question_id": 111,
+      "source_answer": "B",
+      "proposed_answer": "B",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 112,
+      "source_answer": "D",
+      "proposed_answer": null,
+      "review_status": "question_flawed",
+      "confidence": "low",
+      "reason": "Source says D (move the canvas app to Microsoft-managed-key environment), but this changes its encryption/security context, contradicting the 'must NOT modify' requirement. Microsoft now documents Copilot Studio CMK support. No provided choice clearly satisfies all conditions.",
+      "source_url": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/admin-customer-managed-keys"
+    },
+    {
+      "question_id": 113,
+      "source_answer": "CE",
+      "proposed_answer": "CE",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 114,
+      "source_answer": null,
+      "proposed_answer": null,
+      "review_status": "image_review_required",
+      "confidence": "unassessed",
+      "reason": "The answer is embedded in an image. Do not treat the text-only extraction as verification.",
+      "source_url": null
+    },
+    {
+      "question_id": 115,
+      "source_answer": "D",
+      "proposed_answer": "D",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 116,
+      "source_answer": null,
+      "proposed_answer": null,
+      "review_status": "image_review_required",
+      "confidence": "unassessed",
+      "reason": "The answer is embedded in an image. Do not treat the text-only extraction as verification.",
+      "source_url": null
+    },
+    {
+      "question_id": 117,
+      "source_answer": "B",
+      "proposed_answer": "B",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 118,
+      "source_answer": "B",
+      "proposed_answer": "B",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 119,
+      "source_answer": "A",
+      "proposed_answer": "A",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    },
+    {
+      "question_id": 120,
+      "source_answer": "C",
+      "proposed_answer": "C",
+      "review_status": "awaiting_individual_validation",
+      "confidence": "unassessed",
+      "reason": "This question requires individual review against product documentation.",
+      "source_url": null
+    }
+  ]
+}
