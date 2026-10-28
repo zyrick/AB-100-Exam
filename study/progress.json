@@ -405,13 +405,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Azure Pricing Calculator estimates cost of prospective services; Azure TCO Calculator compares on-premises vs cloud migration costs. Q28 has same stem but different options."
+    },
+    {
+      "question_id": 35,
+      "selected_answer": "C",
+      "graded_answer": "C",
+      "correct": true,
+      "audit_status": "question_flawed",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Source-key C. Microsoft Learn: Cost Management forecasts existing usage; Azure Pricing Calculator better for anticipated new AI deployment, but not offered."
     }
   ],
   "summary": {
-    "attempted": 34,
-    "correct": 25,
+    "attempted": 35,
+    "correct": 26,
     "incorrect": 9,
-    "next_question_id": 35,
-    "resume_question_id": 35
+    "next_question_id": 36,
+    "resume_question_id": 36
   }
 }
