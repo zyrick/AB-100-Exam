@@ -317,13 +317,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Original answer image48.png circles Copilot Studio for both; Semantic Kernel requirement makes Foundry a defensible Agent1 choice. Canvas app custom Copilot integration deprecated for new apps Feb 2 2026."
+    },
+    {
+      "question_id": 28,
+      "selected_answer": "C",
+      "graded_answer": "C",
+      "correct": true,
+      "audit_status": "question_flawed",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Matches exam-bank key. Microsoft recommends Azure Pricing Calculator for new Azure AI workloads; TCO Calculator is primarily for on-premises-to-Azure comparisons. Correct tool absent from options."
     }
   ],
   "summary": {
-    "attempted": 27,
-    "correct": 21,
+    "attempted": 28,
+    "correct": 22,
     "incorrect": 6,
-    "next_question_id": 28,
-    "resume_question_id": 28
+    "next_question_id": 29,
+    "resume_question_id": 29
   }
 }
