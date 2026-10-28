@@ -645,13 +645,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Microsoft Learn confirms Computer Use simulates GUI interaction via screen reading, mouse clicks, and typing; generative orchestration prerequisite."
+    },
+    {
+      "question_id": 55,
+      "selected_answer": "E",
+      "graded_answer": "E",
+      "correct": true,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Escalate topic configures live-agent handoff. Transfer conversation node and an engagement hub are required."
     }
   ],
   "summary": {
-    "attempted": 54,
-    "correct": 38,
+    "attempted": 55,
+    "correct": 39,
     "incorrect": 16,
-    "next_question_id": 55,
-    "resume_question_id": 55
+    "next_question_id": 56,
+    "resume_question_id": 56
   }
 }
