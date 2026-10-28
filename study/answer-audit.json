@@ -3,9 +3,10 @@
   "disclaimer": "Source answers are community content, not official Microsoft answer keys. The audit identifies provisional corrections and warnings. Supported means checked for technical plausibility, not independently certified as an official exam answer. Image questions remain unvalidated until visually reviewed.",
   "last_review": "2026-10-28",
   "stats": {
-    "image_review_required": 33,
+    "image_review_required": 32,
     "provisionally_consistent": 32,
     "supported": 25,
+    "documentation_reviewed_image_unverified": 1,
     "caution": 28,
     "recommended_change": 1,
     "question_flawed": 1
@@ -41,11 +42,14 @@
     {
       "question_id": 4,
       "source_answer": null,
-      "proposed_answer": null,
-      "review_status": "image_review_required",
-      "confidence": "unassessed",
-      "reason": "The answer is embedded in an image. Do not treat the text-only extraction as verification.",
-      "source_url": null
+      "proposed_answer": {
+        "Agent1": "Natural Language Understanding (NLU)",
+        "Agent2": "Natural Language Understanding Plus (NLU+)"
+      },
+      "review_status": "documentation_reviewed_image_unverified",
+      "confidence": "medium",
+      "reason": "Classic orchestration simple short topic phrases use NLU. Dynamics 365 Contact Center voice channel aligns with NLU+ for voice optimization. Repository answer PNG has not been visually checked.",
+      "source_url": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/nlu-overview"
     },
     {
       "question_id": 5,
