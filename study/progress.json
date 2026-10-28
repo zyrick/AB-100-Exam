@@ -1,0 +1,20 @@
+{
+  "description": "AB-100 quiz progress tracked from ChatGPT study sessions. Correctness uses reviewed key; source answers are not official Microsoft certification answers.",
+  "attempts": [
+    {
+      "question_id": 2,
+      "selected_answer": "A",
+      "graded_answer": "A",
+      "correct": true,
+      "audit_status": "provisionally_consistent",
+      "attempted_on": "2026-10-28",
+      "session": "learning-mode-1"
+    }
+  ],
+  "summary": {
+    "attempted": 1,
+    "correct": 1,
+    "incorrect": 0,
+    "next_question_id": 3
+  }
+}
