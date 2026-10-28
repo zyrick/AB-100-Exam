@@ -3,11 +3,11 @@
   "disclaimer": "Source answers are community content, not official Microsoft answer keys. The audit identifies provisional corrections and warnings. Supported means checked for technical plausibility, not independently certified as an official exam answer. Image questions remain unvalidated until visually reviewed.",
   "last_review": "2026-10-28",
   "stats": {
-    "image_review_required": 31,
+    "image_review_required": 30,
     "provisionally_consistent": 31,
     "supported": 27,
     "documentation_reviewed_image_unverified": 1,
-    "source_image_verified": 1,
+    "source_image_verified": 2,
     "caution": 27,
     "recommended_change": 1,
     "question_flawed": 1
@@ -85,10 +85,13 @@
     {
       "question_id": 8,
       "source_answer": null,
-      "proposed_answer": null,
-      "review_status": "image_review_required",
-      "confidence": "unassessed",
-      "reason": "The answer is embedded in an image. Do not treat the text-only extraction as verification.",
+      "proposed_answer": {
+        "improve_performance": "Move to a multi-agent architecture",
+        "improve_accuracy": "Add a grounding data source"
+      },
+      "review_status": "source_image_verified",
+      "confidence": "high",
+      "reason": "Directly checked original source answer image8.png. Multi-agent performance gain depends on orchestration and implementation, not guaranteed.",
       "source_url": null
     },
     {
