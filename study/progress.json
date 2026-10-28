@@ -971,13 +971,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Domain relevance assesses task-appropriate reporting output. Microsoft Foundry supports relevance, task completion and adherence evaluators."
+    },
+    {
+      "question_id": 82,
+      "selected_answer": "D",
+      "graded_answer": "B",
+      "correct": false,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Azure Policy enforces allowed Azure regions; Microsoft Purview is focused on data governance. Data movement needs additional service-specific checks."
     }
   ],
   "summary": {
-    "attempted": 81,
+    "attempted": 82,
     "correct": 51,
-    "incorrect": 30,
-    "next_question_id": 82,
-    "resume_question_id": 82
+    "incorrect": 31,
+    "next_question_id": 83,
+    "resume_question_id": 83
   }
 }
