@@ -731,13 +731,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Source answer B; generic template is not the specialized Sales agent."
+    },
+    {
+      "question_id": 62,
+      "selected_answer": "D",
+      "graded_answer": "D",
+      "correct": true,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Microsoft Learn verifies solution-aware custom connectors and managed deployment across environments."
     }
   ],
   "summary": {
-    "attempted": 61,
-    "correct": 43,
+    "attempted": 62,
+    "correct": 44,
     "incorrect": 18,
-    "next_question_id": 62,
-    "resume_question_id": 62
+    "next_question_id": 63,
+    "resume_question_id": 63
   }
 }
