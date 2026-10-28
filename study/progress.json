@@ -327,13 +327,31 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Matches exam-bank key. Microsoft recommends Azure Pricing Calculator for new Azure AI workloads; TCO Calculator is primarily for on-premises-to-Azure comparisons. Correct tool absent from options."
+    },
+    {
+      "question_id": 29,
+      "selected_answer": {
+        "centralized_workspace": "Microsoft Dataverse",
+        "short_overviews": "Azure OpenAI"
+      },
+      "graded_answer": {
+        "centralized_workspace": "Azure OpenAI Foundry",
+        "short_overviews": "An AI Builder prebuilt model"
+      },
+      "correct": false,
+      "points_earned": 0,
+      "points_possible": 2,
+      "audit_status": "source_image_verified_with_technical_caveat",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Original answer image50.png marks Azure OpenAI Foundry and AI Builder prebuilt model. Product naming is non-standard, and AI Builder prebuilt prompt is potentially more specific for summarization."
     }
   ],
   "summary": {
-    "attempted": 28,
+    "attempted": 29,
     "correct": 22,
-    "incorrect": 6,
-    "next_question_id": 29,
-    "resume_question_id": 29
+    "incorrect": 7,
+    "next_question_id": 30,
+    "resume_question_id": 30
   }
 }
