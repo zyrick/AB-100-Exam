@@ -4,8 +4,8 @@
   "last_review": "2026-10-28",
   "stats": {
     "image_review_required": 30,
-    "provisionally_consistent": 31,
-    "supported": 28,
+    "provisionally_consistent": 30,
+    "supported": 29,
     "documentation_reviewed_image_unverified": 1,
     "source_image_verified": 2,
     "caution": 26,
@@ -125,10 +125,10 @@
       "question_id": 12,
       "source_answer": "B",
       "proposed_answer": "B",
-      "review_status": "provisionally_consistent",
-      "confidence": "medium",
-      "reason": "Horizon-based portfolio planning balances near-term impact and long-term exploration.",
-      "source_url": null
+      "review_status": "supported",
+      "confidence": "high",
+      "reason": "Microsoft AI Business School describes three horizons for AI investments, matching a portfolio balancing immediate and longer-term innovation.",
+      "source_url": "https://msblogs.thesourcemediaassets.com/sites/171/2021/01/AI-Business-School_Podcast_Ep4_Transcript.pdf"
     },
     {
       "question_id": 13,
