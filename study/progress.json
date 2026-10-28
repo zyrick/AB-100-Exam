@@ -18,12 +18,28 @@
       "audit_status": "supported",
       "attempted_on": "2026-10-28",
       "session": "learning-mode-1"
+    },
+    {
+      "question_id": 4,
+      "selected_answer": {
+        "Agent1": "Azure Language in Foundry Tools",
+        "Agent2": "Natural Language Understanding (NLU)"
+      },
+      "graded_answer": {
+        "Agent1": "Natural Language Understanding (NLU)",
+        "Agent2": "Natural Language Understanding Plus (NLU+)"
+      },
+      "correct": false,
+      "audit_status": "documentation_reviewed_image_unverified",
+      "attempted_on": "2026-10-28",
+      "session": "learning-mode-1",
+      "note": "Both selections differ from Microsoft Learn-based recommendation; exact source PNG has not been directly inspected."
     }
   ],
   "summary": {
-    "attempted": 2,
+    "attempted": 3,
     "correct": 2,
-    "incorrect": 0,
-    "next_question_id": 4
+    "incorrect": 1,
+    "next_question_id": 5
   }
 }
