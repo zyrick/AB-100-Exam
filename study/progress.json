@@ -525,13 +525,31 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Copilot email assist drafts prospect emails in Dynamics 365 Sales; Azure AI Search retrieves indexed information."
+    },
+    {
+      "question_id": 47,
+      "selected_answer": {
+        "For AI agent creation": "Microsoft Copilot Studio",
+        "For unexpected AI agent actions": "a Fallback topic"
+      },
+      "graded_answer": {
+        "For AI agent creation": "Microsoft Copilot Studio",
+        "For unexpected AI agent actions": "a Fallback topic"
+      },
+      "points_earned": 2,
+      "points_possible": 2,
+      "correct": true,
+      "audit_status": "source_image_verified",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Original image10.png confirms both selections. Microsoft Learn describes fallback for unrecognized intent and escalation after two prompts."
     }
   ],
   "summary": {
-    "attempted": 46,
-    "correct": 34,
+    "attempted": 47,
+    "correct": 35,
     "incorrect": 12,
-    "next_question_id": 47,
-    "resume_question_id": 47
+    "next_question_id": 48,
+    "resume_question_id": 48
   }
 }
