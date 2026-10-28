@@ -4,9 +4,9 @@
   "last_review": "2026-10-28",
   "stats": {
     "image_review_required": 33,
-    "awaiting_individual_validation": 56,
-    "supported": 26,
-    "caution": 3,
+    "provisionally_consistent": 32,
+    "supported": 25,
+    "caution": 28,
     "recommended_change": 1,
     "question_flawed": 1
   },
@@ -24,9 +24,9 @@
       "question_id": 2,
       "source_answer": "A",
       "proposed_answer": "A",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "provisionally_consistent",
+      "confidence": "medium",
+      "reason": "The Cloud Adoption Framework guides migration to Azure/cloud, unlike implementation-specific Power Platform assets.",
       "source_url": null
     },
     {
@@ -51,18 +51,18 @@
       "question_id": 5,
       "source_answer": "D",
       "proposed_answer": "D",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "caution",
+      "confidence": "low",
+      "reason": "Uploaded files are a plausible agent knowledge source, but confirm that this finance-and-operations copilot supports the file upload route without modifying topics.",
       "source_url": null
     },
     {
       "question_id": 6,
       "source_answer": "B",
       "proposed_answer": "B",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "provisionally_consistent",
+      "confidence": "medium",
+      "reason": "Power Platform connectors invoke external services through supported endpoints.",
       "source_url": null
     },
     {
@@ -96,9 +96,9 @@
       "question_id": 10,
       "source_answer": "A",
       "proposed_answer": "A",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "caution",
+      "confidence": "low",
+      "reason": "Azure AI Search indexes/searches disparate data, but a staged data lake can be appropriate for raw heterogeneous logs; predictive use also needs modeling, not just knowledge indexing.",
       "source_url": null
     },
     {
@@ -114,9 +114,9 @@
       "question_id": 12,
       "source_answer": "B",
       "proposed_answer": "B",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "provisionally_consistent",
+      "confidence": "medium",
+      "reason": "Horizon-based portfolio planning balances near-term impact and long-term exploration.",
       "source_url": null
     },
     {
@@ -132,9 +132,9 @@
       "question_id": 14,
       "source_answer": "D",
       "proposed_answer": "D",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "caution",
+      "confidence": "low",
+      "reason": "Cost identification is important for ROAI but a baseline of existing business costs and performance may need to come first. Wording is ambiguous.",
       "source_url": null
     },
     {
@@ -150,9 +150,9 @@
       "question_id": 16,
       "source_answer": "D",
       "proposed_answer": "D",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "caution",
+      "confidence": "low",
+      "reason": "Cross-region movement requires applicable consent, region and tenant policy checks; simply enabling cross-region data movement may not be sufficient.",
       "source_url": null
     },
     {
@@ -204,18 +204,18 @@
       "question_id": 22,
       "source_answer": "D",
       "proposed_answer": "D",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "provisionally_consistent",
+      "confidence": "medium",
+      "reason": "ROAI compares costs and realized value rather than only break-even.",
       "source_url": null
     },
     {
       "question_id": 23,
       "source_answer": "C",
       "proposed_answer": "C",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "caution",
+      "confidence": "low",
+      "reason": "Semantic-model endorsement increases discoverability/trust; whether it directly makes it an AI grounding source depends on the particular Microsoft Copilot integration.",
       "source_url": null
     },
     {
@@ -231,18 +231,18 @@
       "question_id": 25,
       "source_answer": "B",
       "proposed_answer": "B",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "provisionally_consistent",
+      "confidence": "medium",
+      "reason": "Bias review is a data quality/responsible-AI preparation step.",
       "source_url": null
     },
     {
       "question_id": 26,
       "source_answer": "C",
       "proposed_answer": "C",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "provisionally_consistent",
+      "confidence": "medium",
+      "reason": "Business value toolkit helps frame benefits and business outcomes.",
       "source_url": null
     },
     {
@@ -285,27 +285,27 @@
       "question_id": 31,
       "source_answer": "AC",
       "proposed_answer": "AC",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "caution",
+      "confidence": "low",
+      "reason": "The source selects model and orchestration choice; inspect full case study for the CFO's requested session outcome measure and agent metrics.",
       "source_url": null
     },
     {
       "question_id": 32,
       "source_answer": "C",
       "proposed_answer": "C",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "caution",
+      "confidence": "low",
+      "reason": "Generative orchestration is plausible but the source requirement may involve different capabilities; needs full case-study verification.",
       "source_url": null
     },
     {
       "question_id": 33,
       "source_answer": "C",
       "proposed_answer": "C",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "provisionally_consistent",
+      "confidence": "medium",
+      "reason": "Data bias review is directly relevant before customer-sentiment analytics.",
       "source_url": null
     },
     {
@@ -357,9 +357,9 @@
       "question_id": 39,
       "source_answer": "A",
       "proposed_answer": "A",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "provisionally_consistent",
+      "confidence": "medium",
+      "reason": "Missing/inconsistent records should be cleaned before model use.",
       "source_url": null
     },
     {
@@ -375,54 +375,54 @@
       "question_id": 41,
       "source_answer": "A",
       "proposed_answer": "A",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "caution",
+      "confidence": "low",
+      "reason": "Built-in analytics reports general agent performance; for comprehensive cross-channel telemetry Application Insights may be more appropriate depending on meaning.",
       "source_url": null
     },
     {
       "question_id": 42,
       "source_answer": "C",
       "proposed_answer": "C",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "provisionally_consistent",
+      "confidence": "medium",
+      "reason": "Application Insights provides telemetry through supported instrumentation.",
       "source_url": null
     },
     {
       "question_id": 43,
       "source_answer": "C",
       "proposed_answer": "C",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "caution",
+      "confidence": "low",
+      "reason": "Log Analytics can query collected telemetry, but requires configured ingestion; not a drop-in telemetry instrumentation tool.",
       "source_url": null
     },
     {
       "question_id": 44,
       "source_answer": "A",
       "proposed_answer": "A",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "provisionally_consistent",
+      "confidence": "medium",
+      "reason": "Data bias can distort customer sentiment analysis.",
       "source_url": null
     },
     {
       "question_id": 45,
       "source_answer": "C",
       "proposed_answer": "C",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "provisionally_consistent",
+      "confidence": "medium",
+      "reason": "A voice agent/template matches hands-free conversational scenarios in the lengthy case study.",
       "source_url": null
     },
     {
       "question_id": 46,
       "source_answer": "B",
       "proposed_answer": "B",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "provisionally_consistent",
+      "confidence": "medium",
+      "reason": "Copilot email assist speeds Dynamics 365 Sales prospect communication.",
       "source_url": null
     },
     {
@@ -438,27 +438,27 @@
       "question_id": 48,
       "source_answer": "D",
       "proposed_answer": "D",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "provisionally_consistent",
+      "confidence": "medium",
+      "reason": "Microsoft Graph provides scoped context for Microsoft 365 data-grounded experiences; access permissions still apply.",
       "source_url": null
     },
     {
       "question_id": 49,
       "source_answer": "D",
       "proposed_answer": "D",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "caution",
+      "confidence": "low",
+      "reason": "Prebuilt accounts-payable capabilities, prerequisites and role names are version-sensitive; verify against the exact Dynamics 365 Finance release.",
       "source_url": null
     },
     {
       "question_id": 50,
       "source_answer": "BE",
       "proposed_answer": "BE",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "provisionally_consistent",
+      "confidence": "medium",
+      "reason": "Copilot Studio designs the bot escalation; the contact center engagement layer handles human handoff.",
       "source_url": null
     },
     {
@@ -510,9 +510,9 @@
       "question_id": 56,
       "source_answer": "D",
       "proposed_answer": "D",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "provisionally_consistent",
+      "confidence": "medium",
+      "reason": "Copilot Studio plus Power Automate orchestrates document extraction, data updates, and email with low-code components.",
       "source_url": null
     },
     {
@@ -537,27 +537,27 @@
       "question_id": 59,
       "source_answer": "A",
       "proposed_answer": "A",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "provisionally_consistent",
+      "confidence": "medium",
+      "reason": "Copilot for Sales is designed for CRM-context assistance in Outlook and meeting preparation.",
       "source_url": null
     },
     {
       "question_id": 60,
       "source_answer": "B",
       "proposed_answer": "B",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "provisionally_consistent",
+      "confidence": "medium",
+      "reason": "Classic Dataverse workflows do not supply native generative email summarization and meeting preparation.",
       "source_url": null
     },
     {
       "question_id": 61,
       "source_answer": "B",
       "proposed_answer": "B",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "provisionally_consistent",
+      "confidence": "medium",
+      "reason": "A generic agent template alone does not guarantee the specified specialized Sales/CRM assistance.",
       "source_url": null
     },
     {
@@ -573,27 +573,27 @@
       "question_id": 63,
       "source_answer": "A",
       "proposed_answer": "A",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "provisionally_consistent",
+      "confidence": "medium",
+      "reason": "Computer Use is more adaptable to changing UIs than rigid recorded interactions, subject to reliability limitations.",
       "source_url": null
     },
     {
       "question_id": 64,
       "source_answer": "C",
       "proposed_answer": "C",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "provisionally_consistent",
+      "confidence": "medium",
+      "reason": "Copilot Studio and AI Builder support low-code document processing and workflow actions.",
       "source_url": null
     },
     {
       "question_id": 65,
       "source_answer": "B",
       "proposed_answer": "B",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "provisionally_consistent",
+      "confidence": "medium",
+      "reason": "A custom connector can securely call the REST API through configured authentication.",
       "source_url": null
     },
     {
@@ -609,9 +609,9 @@
       "question_id": 67,
       "source_answer": "EF",
       "proposed_answer": "EF",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "caution",
+      "confidence": "low",
+      "reason": "Field Service Copilot + mobile app are plausible, but capability licensing and naming are version-sensitive.",
       "source_url": null
     },
     {
@@ -627,36 +627,36 @@
       "question_id": 69,
       "source_answer": "A",
       "proposed_answer": "A",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "caution",
+      "confidence": "low",
+      "reason": "Adding summary fields can customize some Copilot summaries; verify product support in Dynamics 365 Sales version.",
       "source_url": null
     },
     {
       "question_id": 70,
       "source_answer": "B",
       "proposed_answer": "B",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "provisionally_consistent",
+      "confidence": "medium",
+      "reason": "Power Automate triggering alone is not the specified opportunity-summary customization mechanism.",
       "source_url": null
     },
     {
       "question_id": 71,
       "source_answer": "B",
       "proposed_answer": "B",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "provisionally_consistent",
+      "confidence": "medium",
+      "reason": "AI Builder lead scoring is not a mechanism to customize Sales Copilot summary generation.",
       "source_url": null
     },
     {
       "question_id": 72,
       "source_answer": "A",
       "proposed_answer": "A",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "caution",
+      "confidence": "low",
+      "reason": "Agent management may be the intended prebuilt agent selection capability; needs full case study and current Dynamics 365 coverage.",
       "source_url": null
     },
     {
@@ -672,18 +672,18 @@
       "question_id": 74,
       "source_answer": "B",
       "proposed_answer": "B",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "provisionally_consistent",
+      "confidence": "medium",
+      "reason": "Adding a widget changes the interface placement, not the summary's underlying contents.",
       "source_url": null
     },
     {
       "question_id": 75,
       "source_answer": "C",
       "proposed_answer": "C",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "caution",
+      "confidence": "low",
+      "reason": "Application Insights captures telemetry but sensitive identifiers and conversation/audit recording must respect configuration and privacy requirements; not necessarily complete governance alone.",
       "source_url": null
     },
     {
@@ -699,18 +699,18 @@
       "question_id": 77,
       "source_answer": "D",
       "proposed_answer": "D",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "caution",
+      "confidence": "low",
+      "reason": "Analytics demonstrates adoption but ROI signoff also needs baseline costs and realized business benefits; consider the exact requirement.",
       "source_url": null
     },
     {
       "question_id": 78,
       "source_answer": "B",
       "proposed_answer": "B",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "provisionally_consistent",
+      "confidence": "medium",
+      "reason": "Connect Copilot Studio to Microsoft Foundry to invoke an appropriate model/tool.",
       "source_url": null
     },
     {
@@ -735,9 +735,9 @@
       "question_id": 81,
       "source_answer": "B",
       "proposed_answer": "B",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "provisionally_consistent",
+      "confidence": "medium",
+      "reason": "Domain relevance evaluates meaningfulness for the target business reporting task.",
       "source_url": null
     },
     {
@@ -798,9 +798,9 @@
       "question_id": 88,
       "source_answer": "A",
       "proposed_answer": "A",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "caution",
+      "confidence": "low",
+      "reason": "Model registry is sensible for model versions; versioning the full system may be necessary for assessing deployment impact.",
       "source_url": null
     },
     {
@@ -825,18 +825,18 @@
       "question_id": 91,
       "source_answer": "CE",
       "proposed_answer": "CE",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "caution",
+      "confidence": "low",
+      "reason": "Source selects topic usage/low resolution and generated-answer quality; check availability of exact metrics in the Analytics tab.",
       "source_url": null
     },
     {
       "question_id": 92,
       "source_answer": "AE",
       "proposed_answer": "AE",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "caution",
+      "confidence": "low",
+      "reason": "Blob versioning and associations with fine-tuning jobs are plausible; validate approved dataset snapshot/version pinning.",
       "source_url": null
     },
     {
@@ -852,9 +852,9 @@
       "question_id": 94,
       "source_answer": "E",
       "proposed_answer": "E",
-      "review_status": "supported",
-      "confidence": "medium",
-      "reason": "Microsoft Purview is appropriate for auditing/governance of sensitive data usage; Azure Policy is policy enforcement.",
+      "review_status": "caution",
+      "confidence": "low",
+      "reason": "Purview governs and audits data access; actual model configuration change auditing may also require Azure Activity logs/Azure Policy, so the question conflates scopes.",
       "source_url": null
     },
     {
@@ -879,9 +879,9 @@
       "question_id": 97,
       "source_answer": "A",
       "proposed_answer": "A",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "provisionally_consistent",
+      "confidence": "medium",
+      "reason": "Track task outcomes and accuracy, supplemented by test scripts and operational metrics.",
       "source_url": null
     },
     {
@@ -897,9 +897,9 @@
       "question_id": 99,
       "source_answer": "AD",
       "proposed_answer": "AD",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "provisionally_consistent",
+      "confidence": "medium",
+      "reason": "Case resolution time and employee productivity are directly measurable business benefits.",
       "source_url": null
     },
     {
@@ -924,18 +924,18 @@
       "question_id": 102,
       "source_answer": "D",
       "proposed_answer": "D",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "provisionally_consistent",
+      "confidence": "medium",
+      "reason": "Copilot Studio Analytics exposes resolution and escalation rates.",
       "source_url": null
     },
     {
       "question_id": 103,
       "source_answer": "D",
       "proposed_answer": "D",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "caution",
+      "confidence": "low",
+      "reason": "AI-assisted quality evaluator is plausible for GPT-as-judge but exact categories and scores depend on Microsoft Foundry's current evaluation taxonomy.",
       "source_url": null
     },
     {
@@ -951,9 +951,9 @@
       "question_id": 105,
       "source_answer": "C",
       "proposed_answer": "C",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "caution",
+      "confidence": "low",
+      "reason": "Foundry evaluation/observability helps assess quality, but an actual release gate still needs a CI/CD pipeline check before deploying.",
       "source_url": null
     },
     {
@@ -1005,9 +1005,9 @@
       "question_id": 111,
       "source_answer": "B",
       "proposed_answer": "B",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "caution",
+      "confidence": "low",
+      "reason": "System instructions can mitigate output bias at runtime, but not necessarily underlying data/model bias; may need broader evaluations and dataset remediation.",
       "source_url": null
     },
     {
@@ -1023,9 +1023,9 @@
       "question_id": 113,
       "source_answer": "CE",
       "proposed_answer": "CE",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "caution",
+      "confidence": "low",
+      "reason": "Power Platform solution + X++ model is plausible only if the full case study spans Power Platform and finance-and-operations customizations.",
       "source_url": null
     },
     {
@@ -1041,9 +1041,9 @@
       "question_id": 115,
       "source_answer": "D",
       "proposed_answer": "D",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "caution",
+      "confidence": "low",
+      "reason": "Responsible AI dashboard supports reliability/fairness assessment in some ML workloads; confirm product fit for the custom agent in the case study.",
       "source_url": null
     },
     {
@@ -1059,37 +1059,38 @@
       "question_id": 117,
       "source_answer": "B",
       "proposed_answer": "B",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "provisionally_consistent",
+      "confidence": "medium",
+      "reason": "GitHub Copilot is primarily a software development coding assistant, not a minimal-build business analytics agent.",
       "source_url": null
     },
     {
       "question_id": 118,
       "source_answer": "B",
       "proposed_answer": "B",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "provisionally_consistent",
+      "confidence": "medium",
+      "reason": "Security Copilot is focused on security operations, not general customer demographic analysis.",
       "source_url": null
     },
     {
       "question_id": 119,
       "source_answer": "A",
       "proposed_answer": "A",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "provisionally_consistent",
+      "confidence": "medium",
+      "reason": "Copilot Studio supports low-code conversational agents and performance analytics.",
       "source_url": null
     },
     {
       "question_id": 120,
       "source_answer": "C",
       "proposed_answer": "C",
-      "review_status": "awaiting_individual_validation",
-      "confidence": "unassessed",
-      "reason": "This question requires individual review against product documentation.",
+      "review_status": "caution",
+      "confidence": "low",
+      "reason": "Log Analytics analyzes centralized logs but is not itself instrumentation; Application Insights is often preferred for detailed agent telemetry.",
       "source_url": null
     }
-  ]
+  ],
+  "description": "Conceptual review of all 87 non-image question answers, with reasoned corrections/warnings, plus 33 image answer questions requiring visual interpretation. This is not a fully Microsoft-documentation-verified answer key."
 }
