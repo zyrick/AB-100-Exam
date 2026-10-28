@@ -817,13 +817,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Microsoft Learn: Foundry agents discover and invoke MCP server tools, and Foundry Toolbox tools can change without changing agent code. Server must be connected and authorized."
+    },
+    {
+      "question_id": 69,
+      "selected_answer": "B",
+      "graded_answer": "A",
+      "correct": false,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Microsoft Learn explicitly permits configuring additional opportunity summary fields in Copilot in Dynamics 365 Sales; newer Sales agent requires separate summary configuration."
     }
   ],
   "summary": {
-    "attempted": 68,
+    "attempted": 69,
     "correct": 46,
-    "incorrect": 22,
-    "next_question_id": 69,
-    "resume_question_id": 69
+    "incorrect": 23,
+    "next_question_id": 70,
+    "resume_question_id": 70
   }
 }
