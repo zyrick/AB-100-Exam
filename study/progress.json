@@ -465,13 +465,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Microsoft Learn documents Copilot Studio telemetry export to Application Insights, including agent-level and preview environment-level telemetry."
+    },
+    {
+      "question_id": 41,
+      "selected_answer": "A",
+      "graded_answer": "A",
+      "correct": true,
+      "audit_status": "caution",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Matches source. Copilot Studio Monitor (previously Analytics) shows usage and effectiveness; Application Insights better for detailed telemetry and cross-agent observability."
     }
   ],
   "summary": {
-    "attempted": 40,
-    "correct": 31,
+    "attempted": 41,
+    "correct": 32,
     "incorrect": 9,
-    "next_question_id": 41,
-    "resume_question_id": 41
+    "next_question_id": 42,
+    "resume_question_id": 42
   }
 }
