@@ -981,13 +981,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Azure Policy enforces allowed Azure regions; Microsoft Purview is focused on data governance. Data movement needs additional service-specific checks."
+    },
+    {
+      "question_id": 83,
+      "selected_answer": "C",
+      "graded_answer": "B",
+      "correct": false,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Solutions and pipelines manage connectors; environment variables store configuration."
     }
   ],
   "summary": {
-    "attempted": 82,
+    "attempted": 83,
     "correct": 51,
-    "incorrect": 31,
-    "next_question_id": 83,
-    "resume_question_id": 83
+    "incorrect": 32,
+    "next_question_id": 84,
+    "resume_question_id": 84
   }
 }
