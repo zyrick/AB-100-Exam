@@ -485,13 +485,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Microsoft Learn confirms Application Insights as Copilot Studio agent telemetry integration; environment-level telemetry is preview."
+    },
+    {
+      "question_id": 43,
+      "selected_answer": "A",
+      "graded_answer": "C",
+      "correct": false,
+      "audit_status": "caution",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Source key C Log Analytics. Technically ambiguous: Log Analytics queries ingested telemetry; Copilot Studio Analytics monitors agent KPIs, and Application Insights is documented telemetry collection integration. User A is defensible for performance insights."
     }
   ],
   "summary": {
-    "attempted": 42,
+    "attempted": 43,
     "correct": 33,
-    "incorrect": 9,
-    "next_question_id": 43,
-    "resume_question_id": 43
+    "incorrect": 10,
+    "next_question_id": 44,
+    "resume_question_id": 44
   }
 }
