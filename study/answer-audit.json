@@ -5,9 +5,9 @@
   "stats": {
     "image_review_required": 32,
     "provisionally_consistent": 32,
-    "supported": 25,
+    "supported": 26,
     "documentation_reviewed_image_unverified": 1,
-    "caution": 28,
+    "caution": 27,
     "recommended_change": 1,
     "question_flawed": 1
   },
@@ -55,10 +55,10 @@
       "question_id": 5,
       "source_answer": "D",
       "proposed_answer": "D",
-      "review_status": "caution",
-      "confidence": "low",
-      "reason": "Uploaded files are a plausible agent knowledge source, but confirm that this finance-and-operations copilot supports the file upload route without modifying topics.",
-      "source_url": null
+      "review_status": "supported",
+      "confidence": "high",
+      "reason": "Microsoft Learn explicitly says files (PDF, RTF, Word) can be uploaded as knowledge for finance and operations Copilot without adding new topics; other source types generally require custom topics.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/copilot/extend-copilot-generative-help"
     },
     {
       "question_id": 6,
