@@ -789,13 +789,31 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Original answer image confirms Fallback topic and tool connector."
+    },
+    {
+      "question_id": 67,
+      "selected_answer": [
+        "A",
+        "E"
+      ],
+      "graded_answer": [
+        "E",
+        "F"
+      ],
+      "points_earned": 1,
+      "points_possible": 2,
+      "correct": false,
+      "audit_status": "caution",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Microsoft Learn verifies Copilot in Field Service for work-order insights and Field Service mobile app for frontline visits. Mobile features depend on enablement and some are preview."
     }
   ],
   "summary": {
-    "attempted": 66,
+    "attempted": 67,
     "correct": 45,
-    "incorrect": 21,
-    "next_question_id": 67,
-    "resume_question_id": 67
+    "incorrect": 22,
+    "next_question_id": 68,
+    "resume_question_id": 68
   }
 }
