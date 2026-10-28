@@ -475,13 +475,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Matches source. Copilot Studio Monitor (previously Analytics) shows usage and effectiveness; Application Insights better for detailed telemetry and cross-agent observability."
+    },
+    {
+      "question_id": 42,
+      "selected_answer": "C",
+      "graded_answer": "C",
+      "correct": true,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Microsoft Learn confirms Application Insights as Copilot Studio agent telemetry integration; environment-level telemetry is preview."
     }
   ],
   "summary": {
-    "attempted": 41,
-    "correct": 32,
+    "attempted": 42,
+    "correct": 33,
     "incorrect": 9,
-    "next_question_id": 42,
-    "resume_question_id": 42
+    "next_question_id": 43,
+    "resume_question_id": 43
   }
 }
