@@ -241,13 +241,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Model router selects models, whereas Power Platform connectors connect external enterprise data sources."
+    },
+    {
+      "question_id": 22,
+      "selected_answer": "D",
+      "graded_answer": "D",
+      "correct": true,
+      "audit_status": "provisionally_consistent",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Reviewed against Microsoft AB-100 study guide: ROI criteria include TCO and build/buy/extend alternatives."
     }
   ],
   "summary": {
-    "attempted": 21,
-    "correct": 17,
+    "attempted": 22,
+    "correct": 18,
     "incorrect": 4,
-    "next_question_id": 22,
-    "resume_question_id": 22
+    "next_question_id": 23,
+    "resume_question_id": 23
   }
 }
