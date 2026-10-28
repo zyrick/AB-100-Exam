@@ -711,13 +711,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Microsoft Learn confirms Sales agent (formerly Copilot for Sales) summarizes emails, drafts Outlook replies and prepares CRM-context meeting summaries."
+    },
+    {
+      "question_id": 60,
+      "selected_answer": "B",
+      "graded_answer": "B",
+      "correct": true,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Classic Dataverse workflows automate predefined actions; they do not provide native CRM-grounded generative Outlook email and meeting assistance."
     }
   ],
   "summary": {
-    "attempted": 59,
-    "correct": 42,
+    "attempted": 60,
+    "correct": 43,
     "incorrect": 17,
-    "next_question_id": 60,
-    "resume_question_id": 60
+    "next_question_id": 61,
+    "resume_question_id": 61
   }
 }
