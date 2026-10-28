@@ -505,13 +505,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Answer matches the audit; addressing biased customer feedback improves sentiment analysis."
+    },
+    {
+      "question_id": 45,
+      "selected_answer": "A",
+      "graded_answer": "C",
+      "correct": false,
+      "audit_status": "provisionally_consistent",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Case requires hands-free headset spoken conversational interaction and low-code agent; Copilot Studio voice is appropriate, not IT Helpdesk template. Voice deployment channel needs validation."
     }
   ],
   "summary": {
-    "attempted": 44,
+    "attempted": 45,
     "correct": 34,
-    "incorrect": 10,
-    "next_question_id": 45,
-    "resume_question_id": 45
+    "incorrect": 11,
+    "next_question_id": 46,
+    "resume_question_id": 46
   }
 }
