@@ -655,13 +655,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Escalate topic configures live-agent handoff. Transfer conversation node and an engagement hub are required."
+    },
+    {
+      "question_id": 56,
+      "selected_answer": "D",
+      "graded_answer": "D",
+      "correct": true,
+      "audit_status": "provisionally_consistent",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Low-code agent and workflow automation supported by Microsoft Learn."
     }
   ],
   "summary": {
-    "attempted": 55,
-    "correct": 39,
+    "attempted": 56,
+    "correct": 40,
     "incorrect": 16,
-    "next_question_id": 56,
-    "resume_question_id": 56
+    "next_question_id": 57,
+    "resume_question_id": 57
   }
 }
