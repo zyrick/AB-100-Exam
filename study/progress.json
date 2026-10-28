@@ -827,13 +827,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Microsoft Learn explicitly permits configuring additional opportunity summary fields in Copilot in Dynamics 365 Sales; newer Sales agent requires separate summary configuration."
+    },
+    {
+      "question_id": 70,
+      "selected_answer": "B",
+      "graded_answer": "B",
+      "correct": true,
+      "audit_status": "provisionally_consistent",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Power Automate flow triggers do not directly configure built-in opportunity summaries; summary fields and Sales agent AI instructions do."
     }
   ],
   "summary": {
-    "attempted": 69,
-    "correct": 46,
+    "attempted": 70,
+    "correct": 47,
     "incorrect": 23,
-    "next_question_id": 70,
-    "resume_question_id": 70
+    "next_question_id": 71,
+    "resume_question_id": 71
   }
 }
