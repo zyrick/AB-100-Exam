@@ -123,12 +123,21 @@
       "audit_status": "supported",
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1"
+    },
+    {
+      "question_id": 13,
+      "selected_answer": "A",
+      "graded_answer": "A",
+      "correct": true,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1"
     }
   ],
   "summary": {
-    "attempted": 11,
-    "correct": 10,
+    "attempted": 12,
+    "correct": 11,
     "incorrect": 1,
-    "next_question_id": 13
+    "next_question_id": 14
   }
 }
