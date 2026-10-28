@@ -837,13 +837,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Power Automate flow triggers do not directly configure built-in opportunity summaries; summary fields and Sales agent AI instructions do."
+    },
+    {
+      "question_id": 71,
+      "selected_answer": "B",
+      "graded_answer": "B",
+      "correct": true,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Lead scoring does not configure opportunity Copilot summaries; use summary field configuration or Sales agent AI instructions."
     }
   ],
   "summary": {
-    "attempted": 70,
-    "correct": 47,
+    "attempted": 71,
+    "correct": 48,
     "incorrect": 23,
-    "next_question_id": 71,
-    "resume_question_id": 71
+    "next_question_id": 72,
+    "resume_question_id": 72
   }
 }
