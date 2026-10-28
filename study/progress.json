@@ -847,13 +847,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Lead scoring does not configure opportunity Copilot summaries; use summary field configuration or Sales agent AI instructions."
+    },
+    {
+      "question_id": 72,
+      "selected_answer": "C",
+      "graded_answer": "A",
+      "correct": false,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Prebuilt agent selection uses Agent management."
     }
   ],
   "summary": {
-    "attempted": 71,
+    "attempted": 72,
     "correct": 48,
-    "incorrect": 23,
-    "next_question_id": 72,
-    "resume_question_id": 72
+    "incorrect": 24,
+    "next_question_id": 73,
+    "resume_question_id": 73
   }
 }
