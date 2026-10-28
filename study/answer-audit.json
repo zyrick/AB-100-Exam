@@ -4,8 +4,8 @@
   "last_review": "2026-10-28",
   "stats": {
     "image_review_required": 32,
-    "provisionally_consistent": 32,
-    "supported": 26,
+    "provisionally_consistent": 31,
+    "supported": 27,
     "documentation_reviewed_image_unverified": 1,
     "caution": 27,
     "recommended_change": 1,
@@ -64,10 +64,10 @@
       "question_id": 6,
       "source_answer": "B",
       "proposed_answer": "B",
-      "review_status": "provisionally_consistent",
-      "confidence": "medium",
-      "reason": "Power Platform connectors invoke external services through supported endpoints.",
-      "source_url": null
+      "review_status": "supported",
+      "confidence": "high",
+      "reason": "Microsoft Learn documents Power Platform connectors as callable agent tools/actions that wrap APIs and invoke external services.",
+      "source_url": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/microsoft-copilot-extend-action-connector"
     },
     {
       "question_id": 7,
