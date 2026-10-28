@@ -875,13 +875,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Original image56 indicates custom connector and tool. Copilot Studio can also connect directly to existing MCP servers."
+    },
+    {
+      "question_id": 74,
+      "selected_answer": "B",
+      "graded_answer": "B",
+      "correct": true,
+      "audit_status": "provisionally_consistent",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Widget placement changes where summaries appear, not generation or content; wording about presentation is ambiguous."
     }
   ],
   "summary": {
-    "attempted": 73,
-    "correct": 48,
+    "attempted": 74,
+    "correct": 49,
     "incorrect": 25,
-    "next_question_id": 74,
-    "resume_question_id": 74
+    "next_question_id": 75,
+    "resume_question_id": 75
   }
 }
