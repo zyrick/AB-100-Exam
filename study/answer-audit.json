@@ -117,9 +117,9 @@
       "source_answer": "D",
       "proposed_answer": "D",
       "review_status": "supported",
-      "confidence": "medium",
-      "reason": "One Dataverse catalog avoids isolated per-agent copies.",
-      "source_url": null
+      "confidence": "high",
+      "reason": "Dataverse offers centrally managed structured data, shared across Power Apps and Copilot Studio with knowledge-source integration and permission control.",
+      "source_url": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/knowledge-add-dataverse"
     },
     {
       "question_id": 12,
