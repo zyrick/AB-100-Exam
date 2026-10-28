@@ -425,13 +425,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Azure Pricing Calculator estimates future cost from anticipated consumption, per Microsoft Learn."
+    },
+    {
+      "question_id": 37,
+      "selected_answer": "B",
+      "graded_answer": "B",
+      "correct": true,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Azure Pricing Calculator estimates costs based on anticipated resource usage, Microsoft Learn."
     }
   ],
   "summary": {
-    "attempted": 36,
-    "correct": 27,
+    "attempted": 37,
+    "correct": 28,
     "incorrect": 9,
-    "next_question_id": 37,
-    "resume_question_id": 37
+    "next_question_id": 38,
+    "resume_question_id": 38
   }
 }
