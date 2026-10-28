@@ -34,12 +34,22 @@
       "attempted_on": "2026-10-28",
       "session": "learning-mode-1",
       "note": "Both selections differ from Microsoft Learn-based recommendation; exact source PNG has not been directly inspected."
+    },
+    {
+      "question_id": 5,
+      "selected_answer": "D",
+      "graded_answer": "D",
+      "correct": true,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-28",
+      "session": "learning-mode-1",
+      "note": "Verified against Microsoft Learn: add knowledge to generative help and guidance with Copilot."
     }
   ],
   "summary": {
-    "attempted": 3,
-    "correct": 2,
+    "attempted": 4,
+    "correct": 3,
     "incorrect": 1,
-    "next_question_id": 5
+    "next_question_id": 6
   }
 }
