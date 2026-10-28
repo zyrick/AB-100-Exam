@@ -68,12 +68,29 @@
       "audit_status": "source_image_verified",
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1"
+    },
+    {
+      "question_id": 8,
+      "selected_answer": {
+        "incomplete_results": "Add a grounding data source",
+        "domain_specific_reasoning": "Add a grounding data source",
+        "slow_response_times": "Move to a multi-agent architecture"
+      },
+      "graded_answer": {
+        "improve_performance": "Move to a multi-agent architecture",
+        "improve_accuracy": "Add a grounding data source"
+      },
+      "correct": true,
+      "audit_status": "source_image_verified",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Original drag-drop only contains two answer slots (performance, accuracy). Both correct."
     }
   ],
   "summary": {
-    "attempted": 6,
-    "correct": 5,
+    "attempted": 7,
+    "correct": 6,
     "incorrect": 1,
-    "next_question_id": 8
+    "next_question_id": 9
   }
 }
