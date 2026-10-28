@@ -617,13 +617,31 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Original image14.png confirms both source answers. SharePoint knowledge supports PDF Q&A; SharePoint tool could access metadata but must configure appropriate operations. Metadata relation inference is underspecified."
+    },
+    {
+      "question_id": 53,
+      "selected_answer": {
+        "Supports interactive speech responses": "Copilot Studio voice features",
+        "Optimizes decision-making and the accuracy of responses": "A deep reasoning model"
+      },
+      "graded_answer": {
+        "Supports interactive speech responses": "Copilot Studio voice features",
+        "Optimizes decision-making and the accuracy of responses": "A deep reasoning model"
+      },
+      "points_earned": 2,
+      "points_possible": 2,
+      "correct": true,
+      "audit_status": "source_image_verified",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Original image16.png explicitly shows both selections. Microsoft Learn corroborates Copilot Studio voice and preview deep reasoning capabilities."
     }
   ],
   "summary": {
-    "attempted": 52,
-    "correct": 36,
+    "attempted": 53,
+    "correct": 37,
     "incorrect": 16,
-    "next_question_id": 53,
-    "resume_question_id": 53
+    "next_question_id": 54,
+    "resume_question_id": 54
   }
 }
