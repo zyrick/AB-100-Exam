@@ -581,13 +581,31 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Copilot Studio configures escalation and Transfer conversation; customer engagement hub receives/routs live agent handoff. C is not required. Microsoft Learn advanced-hand-off."
+    },
+    {
+      "question_id": 51,
+      "selected_answer": {
+        "Provide AI-driven insights from customer orders": "AI Summaries with Copilot",
+        "Anticipate future product needs": "Generative insights for Demand planning"
+      },
+      "graded_answer": {
+        "Provide AI-driven insights from customer orders": "AI Summaries with Copilot",
+        "Anticipate future product needs": "Generative insights for Demand planning"
+      },
+      "points_earned": 2,
+      "points_possible": 2,
+      "correct": true,
+      "audit_status": "source_image_verified",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Original image12.png verifies both answers; Microsoft Learn confirms order summaries and demand-planning capabilities."
     }
   ],
   "summary": {
-    "attempted": 50,
-    "correct": 35,
+    "attempted": 51,
+    "correct": 36,
     "incorrect": 15,
-    "next_question_id": 51,
-    "resume_question_id": 51
+    "next_question_id": 52,
+    "resume_question_id": 52
   }
 }
