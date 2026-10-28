@@ -95,12 +95,21 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Risk-scoring task agent keeps the human analyst responsible for consequential fraud decisions."
+    },
+    {
+      "question_id": 10,
+      "selected_answer": "A",
+      "graded_answer": "A",
+      "correct": true,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1"
     }
   ],
   "summary": {
-    "attempted": 8,
-    "correct": 7,
+    "attempted": 9,
+    "correct": 8,
     "incorrect": 1,
-    "next_question_id": 10
+    "next_question_id": 11
   }
 }
