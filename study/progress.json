@@ -599,13 +599,31 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Original image12.png verifies both answers; Microsoft Learn confirms order summaries and demand-planning capabilities."
+    },
+    {
+      "question_id": 52,
+      "selected_answer": {
+        "Enable the agent to answer questions about company policies": "From Copilot Studio, add SharePoint as a knowledge source.",
+        "Identify which departments and policies are connected": "Create a Microsoft Dataverse table for the departments."
+      },
+      "graded_answer": {
+        "Enable the agent to answer questions about company policies": "From Copilot Studio, add SharePoint as a knowledge source.",
+        "Identify which departments and policies are connected": "From Copilot Studio, configure the SharePoint tool."
+      },
+      "points_earned": 1,
+      "points_possible": 2,
+      "correct": false,
+      "audit_status": "source_image_verified_with_caveat",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Original image14.png confirms both source answers. SharePoint knowledge supports PDF Q&A; SharePoint tool could access metadata but must configure appropriate operations. Metadata relation inference is underspecified."
     }
   ],
   "summary": {
-    "attempted": 51,
+    "attempted": 52,
     "correct": 36,
-    "incorrect": 15,
-    "next_question_id": 52,
-    "resume_question_id": 52
+    "incorrect": 16,
+    "next_question_id": 53,
+    "resume_question_id": 53
   }
 }
