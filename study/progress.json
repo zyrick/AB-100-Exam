@@ -543,13 +543,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Original image10.png confirms both selections. Microsoft Learn describes fallback for unrecognized intent and escalation after two prompts."
+    },
+    {
+      "question_id": 48,
+      "selected_answer": "C",
+      "graded_answer": "D",
+      "correct": false,
+      "audit_status": "provisionally_consistent",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Microsoft 365 Copilot grounds SharePoint/Teams organizational context via Microsoft Graph with existing access controls; no custom SharePoint crawler required. Narrow site selection may require knowledge source configuration."
     }
   ],
   "summary": {
-    "attempted": 47,
+    "attempted": 48,
     "correct": 35,
-    "incorrect": 12,
-    "next_question_id": 48,
-    "resume_question_id": 48
+    "incorrect": 13,
+    "next_question_id": 49,
+    "resume_question_id": 49
   }
 }
