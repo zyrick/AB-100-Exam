@@ -221,13 +221,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Microsoft Learn confirms Copilot Studio agents can move environments through solutions; managed solutions preferred for production ALM."
+    },
+    {
+      "question_id": 20,
+      "selected_answer": "D",
+      "graded_answer": "B",
+      "correct": false,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Source data quality is the root issue; example user inputs do not cleanse Dataverse grounding data."
     }
   ],
   "summary": {
-    "attempted": 19,
+    "attempted": 20,
     "correct": 17,
-    "incorrect": 2,
-    "next_question_id": 20,
-    "resume_question_id": 20
+    "incorrect": 3,
+    "next_question_id": 21,
+    "resume_question_id": 21
   }
 }
