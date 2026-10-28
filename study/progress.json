@@ -279,13 +279,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Original answer image46.png marks Autonomous for both. The second requirement is somewhat ambiguous if only analysis, rather than automated replenishment, is intended."
+    },
+    {
+      "question_id": 25,
+      "selected_answer": "B",
+      "graded_answer": "B",
+      "correct": true,
+      "audit_status": "provisionally_consistent",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Source B aligns with Microsoft Responsible AI recommendations to check biased and unrepresentative datasets."
     }
   ],
   "summary": {
-    "attempted": 24,
-    "correct": 19,
+    "attempted": 25,
+    "correct": 20,
     "incorrect": 5,
-    "next_question_id": 25,
-    "resume_question_id": 25
+    "next_question_id": 26,
+    "resume_question_id": 26
   }
 }
