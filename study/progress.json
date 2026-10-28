@@ -857,13 +857,31 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Prebuilt agent selection uses Agent management."
+    },
+    {
+      "question_id": 73,
+      "selected_answer": {
+        "Expose data": "a custom connector",
+        "Add to agent": "a REST API"
+      },
+      "graded_answer": {
+        "Expose data": "a custom connector",
+        "Add to agent": "a tool"
+      },
+      "points_earned": 1,
+      "points_possible": 2,
+      "correct": false,
+      "audit_status": "source_image_verified",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Original image56 indicates custom connector and tool. Copilot Studio can also connect directly to existing MCP servers."
     }
   ],
   "summary": {
-    "attempted": 72,
+    "attempted": 73,
     "correct": 48,
-    "incorrect": 24,
-    "next_question_id": 73,
-    "resume_question_id": 73
+    "incorrect": 25,
+    "next_question_id": 74,
+    "resume_question_id": 74
   }
 }
