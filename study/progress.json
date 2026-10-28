@@ -751,13 +751,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Computer Use visually adapts to changing web UI; agent flows automate defined business processes."
+    },
+    {
+      "question_id": 64,
+      "selected_answer": "A",
+      "graded_answer": "C",
+      "correct": false,
+      "audit_status": "provisionally_consistent",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Copilot Studio and AI Builder best fit low-code Teams invoice approvals. Document Intelligence and Logic Apps technically viable but Teams conversational workflow requires additional configuration."
     }
   ],
   "summary": {
-    "attempted": 63,
+    "attempted": 64,
     "correct": 44,
-    "incorrect": 19,
-    "next_question_id": 64,
-    "resume_question_id": 64
+    "incorrect": 20,
+    "next_question_id": 65,
+    "resume_question_id": 65
   }
 }
