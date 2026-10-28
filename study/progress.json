@@ -913,13 +913,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Original answer image verified; documentation indicates alternative ROI tools."
+    },
+    {
+      "question_id": 77,
+      "selected_answer": "B",
+      "graded_answer": "D",
+      "correct": false,
+      "audit_status": "caution",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Copilot Studio Analytics measures agent adoption; Azure Cost Optimization workbook addresses resource spending. Adoption alone is not ROI."
     }
   ],
   "summary": {
-    "attempted": 76,
+    "attempted": 77,
     "correct": 49,
-    "incorrect": 27,
-    "next_question_id": 77,
-    "resume_question_id": 77
+    "incorrect": 28,
+    "next_question_id": 78,
+    "resume_question_id": 78
   }
 }
