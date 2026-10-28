@@ -635,13 +635,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Original image16.png explicitly shows both selections. Microsoft Learn corroborates Copilot Studio voice and preview deep reasoning capabilities."
+    },
+    {
+      "question_id": 54,
+      "selected_answer": "C",
+      "graded_answer": "C",
+      "correct": true,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Microsoft Learn confirms Computer Use simulates GUI interaction via screen reading, mouse clicks, and typing; generative orchestration prerequisite."
     }
   ],
   "summary": {
-    "attempted": 53,
-    "correct": 37,
+    "attempted": 54,
+    "correct": 38,
     "incorrect": 16,
-    "next_question_id": 54,
-    "resume_question_id": 54
+    "next_question_id": 55,
+    "resume_question_id": 55
   }
 }
