@@ -104,12 +104,22 @@
       "audit_status": "supported",
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1"
+    },
+    {
+      "question_id": 11,
+      "selected_answer": "D",
+      "graded_answer": "D",
+      "correct": true,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Dataverse as shared organizational data platform for Power Apps and Copilot Studio"
     }
   ],
   "summary": {
-    "attempted": 9,
-    "correct": 8,
+    "attempted": 10,
+    "correct": 9,
     "incorrect": 1,
-    "next_question_id": 11
+    "next_question_id": 12
   }
 }
