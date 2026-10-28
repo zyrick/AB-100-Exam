@@ -231,13 +231,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Source data quality is the root issue; example user inputs do not cleanse Dataverse grounding data."
+    },
+    {
+      "question_id": 21,
+      "selected_answer": "A",
+      "graded_answer": "C",
+      "correct": false,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Model router selects models, whereas Power Platform connectors connect external enterprise data sources."
     }
   ],
   "summary": {
-    "attempted": 20,
+    "attempted": 21,
     "correct": 17,
-    "incorrect": 3,
-    "next_question_id": 21,
-    "resume_question_id": 21
+    "incorrect": 4,
+    "next_question_id": 22,
+    "resume_question_id": 22
   }
 }
