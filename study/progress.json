@@ -455,13 +455,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Microsoft Learn identifies missing, mismatched or invalid input values as data quality issues; cleansing is appropriate."
+    },
+    {
+      "question_id": 40,
+      "selected_answer": "D",
+      "graded_answer": "D",
+      "correct": true,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Microsoft Learn documents Copilot Studio telemetry export to Application Insights, including agent-level and preview environment-level telemetry."
     }
   ],
   "summary": {
-    "attempted": 39,
-    "correct": 30,
+    "attempted": 40,
+    "correct": 31,
     "incorrect": 9,
-    "next_question_id": 40,
-    "resume_question_id": 40
+    "next_question_id": 41,
+    "resume_question_id": 41
   }
 }
