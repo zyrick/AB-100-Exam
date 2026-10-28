@@ -299,13 +299,31 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Microsoft Learn business value measurement guidance explicitly pairs solution metadata/telemetry with Business value toolkit for broad/scale use; legacy CoE Starter Kit is no longer actively maintained."
+    },
+    {
+      "question_id": 27,
+      "selected_answer": {
+        "Agent1": "Microsoft Foundry",
+        "Agent2": "Copilot in Power Apps"
+      },
+      "graded_answer": {
+        "Agent1": "Microsoft Copilot Studio",
+        "Agent2": "Microsoft Copilot Studio"
+      },
+      "correct": false,
+      "points_earned": 0,
+      "points_possible": 2,
+      "audit_status": "source_image_verified_with_technical_caveat",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Original answer image48.png circles Copilot Studio for both; Semantic Kernel requirement makes Foundry a defensible Agent1 choice. Canvas app custom Copilot integration deprecated for new apps Feb 2 2026."
     }
   ],
   "summary": {
-    "attempted": 26,
+    "attempted": 27,
     "correct": 21,
-    "incorrect": 5,
-    "next_question_id": 27,
-    "resume_question_id": 27
+    "incorrect": 6,
+    "next_question_id": 28,
+    "resume_question_id": 28
   }
 }
