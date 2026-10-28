@@ -289,13 +289,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Source B aligns with Microsoft Responsible AI recommendations to check biased and unrepresentative datasets."
+    },
+    {
+      "question_id": 26,
+      "selected_answer": "C",
+      "graded_answer": "C",
+      "correct": true,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Microsoft Learn business value measurement guidance explicitly pairs solution metadata/telemetry with Business value toolkit for broad/scale use; legacy CoE Starter Kit is no longer actively maintained."
     }
   ],
   "summary": {
-    "attempted": 25,
-    "correct": 20,
+    "attempted": 26,
+    "correct": 21,
     "incorrect": 5,
-    "next_question_id": 26,
-    "resume_question_id": 26
+    "next_question_id": 27,
+    "resume_question_id": 27
   }
 }
