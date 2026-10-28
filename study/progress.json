@@ -415,13 +415,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Source-key C. Microsoft Learn: Cost Management forecasts existing usage; Azure Pricing Calculator better for anticipated new AI deployment, but not offered."
+    },
+    {
+      "question_id": 36,
+      "selected_answer": "D",
+      "graded_answer": "D",
+      "correct": true,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Azure Pricing Calculator estimates future cost from anticipated consumption, per Microsoft Learn."
     }
   ],
   "summary": {
-    "attempted": 35,
-    "correct": 26,
+    "attempted": 36,
+    "correct": 27,
     "incorrect": 9,
-    "next_question_id": 36,
-    "resume_question_id": 36
+    "next_question_id": 37,
+    "resume_question_id": 37
   }
 }
