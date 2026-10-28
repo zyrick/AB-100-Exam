@@ -495,13 +495,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Source key C Log Analytics. Technically ambiguous: Log Analytics queries ingested telemetry; Copilot Studio Analytics monitors agent KPIs, and Application Insights is documented telemetry collection integration. User A is defensible for performance insights."
+    },
+    {
+      "question_id": 44,
+      "selected_answer": "A",
+      "graded_answer": "A",
+      "correct": true,
+      "audit_status": "provisionally_consistent",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Answer matches the audit; addressing biased customer feedback improves sentiment analysis."
     }
   ],
   "summary": {
-    "attempted": 43,
-    "correct": 33,
+    "attempted": 44,
+    "correct": 34,
     "incorrect": 10,
-    "next_question_id": 44,
-    "resume_question_id": 44
+    "next_question_id": 45,
+    "resume_question_id": 45
   }
 }
