@@ -135,9 +135,9 @@
       "source_answer": "A",
       "proposed_answer": "A",
       "review_status": "supported",
-      "confidence": "medium",
-      "reason": "Dataverse provides shared enterprise data for Power Platform and Copilot integrations.",
-      "source_url": null
+      "confidence": "high",
+      "reason": "Dataverse centralizes structured Power Platform business data and provides Copilot Studio knowledge grounding, with access control and governance across Power Platform. Purview complements governance.",
+      "source_url": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/knowledge-add-dataverse"
     },
     {
       "question_id": 14,
