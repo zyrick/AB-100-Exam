@@ -395,13 +395,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Matches audit; supported by Microsoft guidance on fairness, biased data and input data validation."
+    },
+    {
+      "question_id": 34,
+      "selected_answer": "A",
+      "graded_answer": "C",
+      "correct": false,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Azure Pricing Calculator estimates cost of prospective services; Azure TCO Calculator compares on-premises vs cloud migration costs. Q28 has same stem but different options."
     }
   ],
   "summary": {
-    "attempted": 33,
+    "attempted": 34,
     "correct": 25,
-    "incorrect": 8,
-    "next_question_id": 34,
-    "resume_question_id": 34
+    "incorrect": 9,
+    "next_question_id": 35,
+    "resume_question_id": 35
   }
 }
