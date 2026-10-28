@@ -895,13 +895,31 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Copilot Studio logs agent and conversation telemetry to Application Insights with optional user information; sensitive data logging requires governance."
+    },
+    {
+      "question_id": 76,
+      "selected_answer": {
+        "Tool": "Azure Resource Monitor (ARM)",
+        "Data": "the current cost to complete the tasks per instance"
+      },
+      "graded_answer": {
+        "Tool": "Microsoft Foundry",
+        "Data": "the current time to complete the task today per instance"
+      },
+      "points_earned": 0,
+      "points_possible": 2,
+      "correct": false,
+      "audit_status": "source_image_verified",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Original answer image verified; documentation indicates alternative ROI tools."
     }
   ],
   "summary": {
-    "attempted": 75,
+    "attempted": 76,
     "correct": 49,
-    "incorrect": 26,
-    "next_question_id": 76,
-    "resume_question_id": 76
+    "incorrect": 27,
+    "next_question_id": 77,
+    "resume_question_id": 77
   }
 }
