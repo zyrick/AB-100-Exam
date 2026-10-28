@@ -961,13 +961,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Purview provides AI data governance; Defender provides agent threat detection. Azure AI Content Safety filters harmful content."
+    },
+    {
+      "question_id": 81,
+      "selected_answer": "B",
+      "graded_answer": "B",
+      "correct": true,
+      "audit_status": "provisionally_consistent",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Domain relevance assesses task-appropriate reporting output. Microsoft Foundry supports relevance, task completion and adherence evaluators."
     }
   ],
   "summary": {
-    "attempted": 80,
-    "correct": 50,
+    "attempted": 81,
+    "correct": 51,
     "incorrect": 30,
-    "next_question_id": 81,
-    "resume_question_id": 81
+    "next_question_id": 82,
+    "resume_question_id": 82
   }
 }
