@@ -9,12 +9,21 @@
       "audit_status": "provisionally_consistent",
       "attempted_on": "2026-10-28",
       "session": "learning-mode-1"
+    },
+    {
+      "question_id": 3,
+      "selected_answer": "B",
+      "graded_answer": "B",
+      "correct": true,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-28",
+      "session": "learning-mode-1"
     }
   ],
   "summary": {
-    "attempted": 1,
-    "correct": 1,
+    "attempted": 2,
+    "correct": 2,
     "incorrect": 0,
-    "next_question_id": 3
+    "next_question_id": 4
   }
 }
