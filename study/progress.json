@@ -683,13 +683,31 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Original image18 confirms 2/2 source answers. Microsoft Learn contradicts mandatory general knowledge for minimized hallucinations; warns it increases inaccurate content risk. Knowledge may be connected rather than uploaded."
+    },
+    {
+      "question_id": 58,
+      "selected_answer": {
+        "Define rules and constraints": "Agent flows",
+        "Automate a backend process": "Microsoft Power Automate cloud flow"
+      },
+      "graded_answer": {
+        "Define rules and constraints": "Conversation topics",
+        "Automate a backend process": "Microsoft Power Automate cloud flow"
+      },
+      "points_earned": 1,
+      "points_possible": 2,
+      "correct": false,
+      "audit_status": "source_image_verified_with_caveat",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Original image20.png confirms topics plus Power Automate. Microsoft Learn: topics manage conversational flows; agent flows manage business processes. Agent instructions additionally define global constraints."
     }
   ],
   "summary": {
-    "attempted": 57,
+    "attempted": 58,
     "correct": 41,
-    "incorrect": 16,
-    "next_question_id": 58,
-    "resume_question_id": 58
+    "incorrect": 17,
+    "next_question_id": 59,
+    "resume_question_id": 59
   }
 }
