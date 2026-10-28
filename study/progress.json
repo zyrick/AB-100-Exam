@@ -761,13 +761,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Copilot Studio and AI Builder best fit low-code Teams invoice approvals. Document Intelligence and Logic Apps technically viable but Teams conversational workflow requires additional configuration."
+    },
+    {
+      "question_id": 65,
+      "selected_answer": "B",
+      "graded_answer": "B",
+      "correct": true,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Custom connectors securely call REST APIs with configured authentication; direct REST API tools are another supported integration route."
     }
   ],
   "summary": {
-    "attempted": 64,
-    "correct": 44,
+    "attempted": 65,
+    "correct": 45,
     "incorrect": 20,
-    "next_question_id": 65,
-    "resume_question_id": 65
+    "next_question_id": 66,
+    "resume_question_id": 66
   }
 }
