@@ -85,12 +85,22 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Original drag-drop only contains two answer slots (performance, accuracy). Both correct."
+    },
+    {
+      "question_id": 9,
+      "selected_answer": "C",
+      "graded_answer": "C",
+      "correct": true,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Risk-scoring task agent keeps the human analyst responsible for consequential fraud decisions."
     }
   ],
   "summary": {
-    "attempted": 7,
-    "correct": 6,
+    "attempted": 8,
+    "correct": 7,
     "incorrect": 1,
-    "next_question_id": 9
+    "next_question_id": 10
   }
 }
