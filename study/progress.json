@@ -44,12 +44,21 @@
       "attempted_on": "2026-10-28",
       "session": "learning-mode-1",
       "note": "Verified against Microsoft Learn: add knowledge to generative help and guidance with Copilot."
+    },
+    {
+      "question_id": 6,
+      "selected_answer": "B",
+      "graded_answer": "B",
+      "correct": true,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1"
     }
   ],
   "summary": {
-    "attempted": 4,
-    "correct": 3,
+    "attempted": 5,
+    "correct": 4,
     "incorrect": 1,
-    "next_question_id": 6
+    "next_question_id": 7
   }
 }
