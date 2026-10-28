@@ -132,12 +132,22 @@
       "audit_status": "supported",
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1"
+    },
+    {
+      "question_id": 14,
+      "selected_answer": "D",
+      "graded_answer": "D",
+      "correct": true,
+      "audit_status": "caution",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Matches source key, but the question's 'first' wording is ambiguous: Microsoft guidance also prioritizes baseline business metrics and KPIs."
     }
   ],
   "summary": {
-    "attempted": 12,
-    "correct": 11,
+    "attempted": 13,
+    "correct": 12,
     "incorrect": 1,
-    "next_question_id": 14
+    "next_question_id": 15
   }
 }
