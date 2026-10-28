@@ -363,13 +363,25 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Direct comparison with question image51.png and circled answer image52.png."
+    },
+    {
+      "question_id": 31,
+      "selected_answer": "BD",
+      "graded_answer": "AC",
+      "correct": false,
+      "points_earned": 0,
+      "points_possible": 2,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "GPT model and orchestration are cost-influencing design components in Microsoft Copilot Studio agent usage estimation. Estimator predicts credits, not actual historical ROI."
     }
   ],
   "summary": {
-    "attempted": 30,
+    "attempted": 31,
     "correct": 23,
-    "incorrect": 7,
-    "next_question_id": 31,
-    "resume_question_id": 31
+    "incorrect": 8,
+    "next_question_id": 32,
+    "resume_question_id": 32
   }
 }
