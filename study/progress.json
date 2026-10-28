@@ -885,13 +885,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Widget placement changes where summaries appear, not generation or content; wording about presentation is ambiguous."
+    },
+    {
+      "question_id": 75,
+      "selected_answer": "D",
+      "graded_answer": "C",
+      "correct": false,
+      "audit_status": "caution",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Copilot Studio logs agent and conversation telemetry to Application Insights with optional user information; sensitive data logging requires governance."
     }
   ],
   "summary": {
-    "attempted": 74,
+    "attempted": 75,
     "correct": 49,
-    "incorrect": 25,
-    "next_question_id": 75,
-    "resume_question_id": 75
+    "incorrect": 26,
+    "next_question_id": 76,
+    "resume_question_id": 76
   }
 }
