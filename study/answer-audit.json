@@ -5,10 +5,10 @@
   "stats": {
     "image_review_required": 30,
     "provisionally_consistent": 31,
-    "supported": 27,
+    "supported": 28,
     "documentation_reviewed_image_unverified": 1,
     "source_image_verified": 2,
-    "caution": 27,
+    "caution": 26,
     "recommended_change": 1,
     "question_flawed": 1
   },
@@ -107,10 +107,10 @@
       "question_id": 10,
       "source_answer": "A",
       "proposed_answer": "A",
-      "review_status": "caution",
-      "confidence": "low",
-      "reason": "Azure AI Search indexes/searches disparate data, but a staged data lake can be appropriate for raw heterogeneous logs; predictive use also needs modeling, not just knowledge indexing.",
-      "source_url": null
+      "review_status": "supported",
+      "confidence": "high",
+      "reason": "Azure AI Search indexes content from multiple sources and is usable for retrieval/grounding in Copilot Studio. Predictive analytics itself requires a separate model and isn't performed by Search alone.",
+      "source_url": "https://learn.microsoft.com/en-us/azure/search/search-features-list"
     },
     {
       "question_id": 11,
