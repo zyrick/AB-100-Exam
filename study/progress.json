@@ -933,13 +933,23 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Foundry custom model can be connected for Copilot Studio prompt tool; distinct from connecting a Foundry agent."
+    },
+    {
+      "question_id": 79,
+      "selected_answer": "B",
+      "graded_answer": "C",
+      "correct": false,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Power Platform solutions package solution components and dependencies; Azure DevOps automates deployments."
     }
   ],
   "summary": {
-    "attempted": 78,
+    "attempted": 79,
     "correct": 50,
-    "incorrect": 28,
-    "next_question_id": 79,
-    "resume_question_id": 79
+    "incorrect": 29,
+    "next_question_id": 80,
+    "resume_question_id": 80
   }
 }
