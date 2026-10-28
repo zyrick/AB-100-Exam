@@ -193,13 +193,31 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Original image41 question options and image42 marked answer visually verified."
+    },
+    {
+      "question_id": 18,
+      "selected_answer": {
+        "prompt_validation": "Exclude domain-specific terminology from the prompts.",
+        "metrics": "Response relevance and accuracy"
+      },
+      "graded_answer": {
+        "prompt_validation": "Use prompts that have varied phrasing.",
+        "metrics": "Response relevance and accuracy"
+      },
+      "correct": false,
+      "points_earned": 1,
+      "points_possible": 2,
+      "audit_status": "source_image_verified",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Original image44.png shows varied phrasing and response relevance/accuracy; first selection incorrect, second correct."
     }
   ],
   "summary": {
-    "attempted": 17,
+    "attempted": 18,
     "correct": 16,
-    "incorrect": 1,
-    "next_question_id": 18,
-    "resume_question_id": 18
+    "incorrect": 2,
+    "next_question_id": 19,
+    "resume_question_id": 19
   }
 }
