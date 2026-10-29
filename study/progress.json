@@ -1207,13 +1207,25 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Matches source key and audit. Dashboards track outcomes; repeatable test scripts and evaluations assess quality. Resolution and deflection do not by themselves prove accuracy."
+    },
+    {
+      "question_id": 98,
+      "selected_answer": "A",
+      "graded_answer": "A",
+      "correct": true,
+      "points_earned": 1,
+      "points_possible": 1,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Matches GitHub answer audit and Microsoft Learn telemetry overview. Application Insights exports detailed Copilot Studio agent events; environment-level OpenTelemetry monitoring is preview. Native Monitor covers business outcomes."
     }
   ],
   "summary": {
-    "attempted": 97,
-    "correct": 59,
+    "attempted": 98,
+    "correct": 60,
     "incorrect": 38,
-    "next_question_id": 98,
-    "resume_question_id": 98
+    "next_question_id": 99,
+    "resume_question_id": 99
   }
 }
