@@ -1106,13 +1106,24 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Screenshot image32.png marks unpublished version and desktop console. Desktop console only tests desktop flow independently, not orchestration. Microsoft Learn states desktop flows cannot currently be called by Copilot Studio agent flows, so source second answer is technically flawed."
+    },
+    {
+      "question_id": 91,
+      "selected_answer": "CE",
+      "graded_answer": "CE",
+      "correct": true,
+      "points_earned": 2,
+      "points_possible": 2,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1"
     }
   ],
   "summary": {
-    "attempted": 90,
-    "correct": 54,
+    "attempted": 91,
+    "correct": 55,
     "incorrect": 36,
-    "next_question_id": 91,
-    "resume_question_id": 91
+    "next_question_id": 92,
+    "resume_question_id": 92
   }
 }
