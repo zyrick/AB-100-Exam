@@ -1027,13 +1027,25 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Original answer screenshot confirms both selections. Satisfaction is CSAT; current Copilot Studio tracks resolved/escalated outcomes separately."
+    },
+    {
+      "question_id": 86,
+      "selected_answer": "CD",
+      "graded_answer": "CD",
+      "correct": true,
+      "points_earned": 2,
+      "points_possible": 2,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Matches GitHub audit and Microsoft Learn documentation for solutions and deployment pipelines."
     }
   ],
   "summary": {
-    "attempted": 85,
-    "correct": 52,
+    "attempted": 86,
+    "correct": 53,
     "incorrect": 33,
-    "next_question_id": 86,
-    "resume_question_id": 86
+    "next_question_id": 87,
+    "resume_question_id": 87
   }
 }
