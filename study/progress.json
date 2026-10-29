@@ -1219,13 +1219,25 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Matches GitHub answer audit and Microsoft Learn telemetry overview. Application Insights exports detailed Copilot Studio agent events; environment-level OpenTelemetry monitoring is preview. Native Monitor covers business outcomes."
+    },
+    {
+      "question_id": 99,
+      "selected_answer": "AD",
+      "graded_answer": "AD",
+      "correct": true,
+      "points_earned": 2,
+      "points_possible": 2,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Matches GitHub answer audit. Microsoft Learn confirms reduced case handling time and employee productivity as operational ROI measures; baseline and attribution are essential."
     }
   ],
   "summary": {
-    "attempted": 98,
-    "correct": 60,
+    "attempted": 99,
+    "correct": 61,
     "incorrect": 38,
-    "next_question_id": 99,
-    "resume_question_id": 99
+    "next_question_id": 100,
+    "resume_question_id": 100
   }
 }
