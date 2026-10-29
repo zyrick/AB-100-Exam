@@ -1117,13 +1117,25 @@
       "audit_status": "supported",
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1"
+    },
+    {
+      "question_id": 92,
+      "selected_answer": "AE",
+      "graded_answer": "AE",
+      "correct": true,
+      "points_earned": 2,
+      "points_possible": 2,
+      "audit_status": "supported_with_technical_caveat",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Matches source key and GitHub audit. Blob versioning preserves versions but not approvals; Foundry fine-tuning jobs require uploaded training file IDs rather than only a storage location."
     }
   ],
   "summary": {
-    "attempted": 91,
-    "correct": 55,
+    "attempted": 92,
+    "correct": 56,
     "incorrect": 36,
-    "next_question_id": 92,
-    "resume_question_id": 92
+    "next_question_id": 93,
+    "resume_question_id": 93
   }
 }
