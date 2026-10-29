@@ -1177,13 +1177,31 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Original marked image36.png confirms both. Microsoft Learn: Fabric Purview protection can enforce access restrictions; Foundry RBAC governs fine-tuning permissions. ARM locks are control-plane resource protections, not role-specific authorization."
+    },
+    {
+      "question_id": 96,
+      "selected_answer": {
+        "unanswered_questions": "Generated answer rate and quality",
+        "abandoned_sessions": "Conversation outcomes"
+      },
+      "graded_answer": {
+        "unanswered_questions": "Generated answer rate and quality",
+        "abandoned_sessions": "Conversation outcomes"
+      },
+      "correct": true,
+      "points_earned": 2,
+      "points_possible": 2,
+      "audit_status": "source_image_verified",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Verified against original marked image38.png and Microsoft Copilot Studio Monitor analytics docs; unanswered questions and abandoned sessions are different metrics."
     }
   ],
   "summary": {
-    "attempted": 95,
-    "correct": 57,
+    "attempted": 96,
+    "correct": 58,
     "incorrect": 38,
-    "next_question_id": 96,
-    "resume_question_id": 96
+    "next_question_id": 97,
+    "resume_question_id": 97
   }
 }
