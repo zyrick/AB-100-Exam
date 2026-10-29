@@ -1039,13 +1039,42 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Matches GitHub audit and Microsoft Learn documentation for solutions and deployment pipelines."
+    },
+    {
+      "question_id": 87,
+      "selected_answer": {
+        "test_scenario": "Run task-based scenarios that involve both apps.",
+        "metric": "Track the successful completion of cross-app tasks."
+      },
+      "graded_answer": {
+        "test_scenario": "Run task-based scenarios that involve both apps.",
+        "metric": "Track the successful completion of cross-app tasks."
+      },
+      "correct": true,
+      "points_earned": 2,
+      "points_possible": 2,
+      "audit_status": "source_image_verified",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1"
+    },
+    {
+      "question_id": 88,
+      "selected_answer": "C",
+      "graded_answer": "A",
+      "correct": false,
+      "points_earned": 0,
+      "points_possible": 1,
+      "audit_status": "source_key_with_technical_caveat",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Source key and answer audit select central model registry A. C is defensible for broader AI system versioning, but a registry more directly preserves model versions and lineage."
     }
   ],
   "summary": {
-    "attempted": 86,
-    "correct": 53,
-    "incorrect": 33,
-    "next_question_id": 87,
-    "resume_question_id": 87
+    "attempted": 88,
+    "correct": 54,
+    "incorrect": 34,
+    "next_question_id": 89,
+    "resume_question_id": 89
   }
 }
