@@ -1159,13 +1159,31 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Matches source and audit. Purview governs AI data access and use; Azure Monitor Activity Log handles many resource configuration changes, so question conflates scopes."
+    },
+    {
+      "question_id": 95,
+      "selected_answer": {
+        "grounding_data_access": "Microsoft Purview access policies",
+        "model_fine_tuning": "Azure Resource Manager (ARM) resource locks"
+      },
+      "graded_answer": {
+        "grounding_data_access": "Microsoft Purview access policies",
+        "model_fine_tuning": "Role-based access control (RBAC) in Microsoft Foundry"
+      },
+      "correct": false,
+      "points_earned": 1,
+      "points_possible": 2,
+      "audit_status": "source_image_verified",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Original marked image36.png confirms both. Microsoft Learn: Fabric Purview protection can enforce access restrictions; Foundry RBAC governs fine-tuning permissions. ARM locks are control-plane resource protections, not role-specific authorization."
     }
   ],
   "summary": {
-    "attempted": 94,
+    "attempted": 95,
     "correct": 57,
-    "incorrect": 37,
-    "next_question_id": 95,
-    "resume_question_id": 95
+    "incorrect": 38,
+    "next_question_id": 96,
+    "resume_question_id": 96
   }
 }
