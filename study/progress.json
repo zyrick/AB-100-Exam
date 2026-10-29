@@ -1129,13 +1129,31 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Matches source key and GitHub audit. Blob versioning preserves versions but not approvals; Foundry fine-tuning jobs require uploaded training file IDs rather than only a storage location."
+    },
+    {
+      "question_id": 93,
+      "selected_answer": {
+        "approved_region_enforcement": "Azure Policy",
+        "continuous_compliance_verification": "Microsoft Defender for Cloud"
+      },
+      "graded_answer": {
+        "approved_region_enforcement": "Azure Policy",
+        "continuous_compliance_verification": "Microsoft Purview"
+      },
+      "correct": false,
+      "points_earned": 1,
+      "points_possible": 2,
+      "audit_status": "source_image_verified_question_flawed",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Original image34.png marks Azure Policy and Purview. Microsoft Learn confirms Defender for Cloud continuously assesses Azure resource compliance, while Purview Compliance Manager ingests Defender findings. User second selection technically defensible; source key questionable."
     }
   ],
   "summary": {
-    "attempted": 92,
+    "attempted": 93,
     "correct": 56,
-    "incorrect": 36,
-    "next_question_id": 93,
-    "resume_question_id": 93
+    "incorrect": 37,
+    "next_question_id": 94,
+    "resume_question_id": 94
   }
 }
