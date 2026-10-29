@@ -1068,13 +1068,33 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Source key and answer audit select central model registry A. C is defensible for broader AI system versioning, but a registry more directly preserves model versions and lineage."
+    },
+    {
+      "question_id": 89,
+      "selected_answer": {
+        "near_real_time_telemetry": "Application Insights",
+        "full_conversation_transcripts": "Log Analytics",
+        "usage_and_performance": "Log Analytics"
+      },
+      "graded_answer": {
+        "near_real_time_telemetry": "Application Insights",
+        "full_conversation_transcripts": "Microsoft Power Apps",
+        "usage_and_performance": "Copilot Studio"
+      },
+      "correct": false,
+      "points_earned": 1,
+      "points_possible": 3,
+      "audit_status": "source_image_verified_with_technical_caveat",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Original marked image30.png confirms all three. Copilot Studio can also export session transcripts; full Dataverse transcript export is available through Power Apps. Log Analytics may query configured Azure Monitor telemetry but is not the native agent analytics/transcript export interface."
     }
   ],
   "summary": {
-    "attempted": 88,
+    "attempted": 89,
     "correct": 54,
-    "incorrect": 34,
-    "next_question_id": 89,
-    "resume_question_id": 89
+    "incorrect": 35,
+    "next_question_id": 90,
+    "resume_question_id": 90
   }
 }
