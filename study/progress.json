@@ -1231,13 +1231,26 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Matches GitHub answer audit. Microsoft Learn confirms reduced case handling time and employee productivity as operational ROI measures; baseline and attribution are essential."
+    },
+    {
+      "question_id": 100,
+      "selected_answer": "C",
+      "graded_answer": "C",
+      "source_answer": "A",
+      "correct": true,
+      "points_earned": 1,
+      "points_possible": 1,
+      "audit_status": "audit_corrected_source_key_conflict",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Original GitHub source selects A (chunking), but GitHub answer-audit recommends C. Microsoft Learn Azure RAG guidance supports limiting high-relevance retrieved context/top-k to reduce actual prompt input tokens; chunking alone does not guarantee a smaller prompt. Requires retrieval/output configuration, not simply wording."
     }
   ],
   "summary": {
-    "attempted": 99,
-    "correct": 61,
+    "attempted": 100,
+    "correct": 62,
     "incorrect": 38,
-    "next_question_id": 100,
-    "resume_question_id": 100
+    "next_question_id": 101,
+    "resume_question_id": 101
   }
 }
