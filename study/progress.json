@@ -1088,13 +1088,31 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Original marked image30.png confirms all three. Copilot Studio can also export session transcripts; full Dataverse transcript export is available through Power Apps. Log Analytics may query configured Azure Monitor telemetry but is not the native agent analytics/transcript export interface."
+    },
+    {
+      "question_id": 90,
+      "selected_answer": {
+        "validate_latest_changes": "Run tests against the production version of the agent.",
+        "validate_flow_orchestration": "Add the flow to the agent as a tool."
+      },
+      "graded_answer": {
+        "validate_latest_changes": "Run tests against the latest unpublished version of the agent.",
+        "validate_flow_orchestration": "Use the Power Automate for desktop console."
+      },
+      "correct": false,
+      "points_earned": 0,
+      "points_possible": 2,
+      "audit_status": "source_image_verified_question_flawed",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Screenshot image32.png marks unpublished version and desktop console. Desktop console only tests desktop flow independently, not orchestration. Microsoft Learn states desktop flows cannot currently be called by Copilot Studio agent flows, so source second answer is technically flawed."
     }
   ],
   "summary": {
-    "attempted": 89,
+    "attempted": 90,
     "correct": 54,
-    "incorrect": 35,
-    "next_question_id": 90,
-    "resume_question_id": 90
+    "incorrect": 36,
+    "next_question_id": 91,
+    "resume_question_id": 91
   }
 }
