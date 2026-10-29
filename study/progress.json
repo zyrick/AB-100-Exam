@@ -1195,13 +1195,25 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Verified against original marked image38.png and Microsoft Copilot Studio Monitor analytics docs; unanswered questions and abandoned sessions are different metrics."
+    },
+    {
+      "question_id": 97,
+      "selected_answer": "A",
+      "graded_answer": "A",
+      "correct": true,
+      "points_earned": 1,
+      "points_possible": 1,
+      "audit_status": "supported",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Matches source key and audit. Dashboards track outcomes; repeatable test scripts and evaluations assess quality. Resolution and deflection do not by themselves prove accuracy."
     }
   ],
   "summary": {
-    "attempted": 96,
-    "correct": 58,
+    "attempted": 97,
+    "correct": 59,
     "incorrect": 38,
-    "next_question_id": 97,
-    "resume_question_id": 97
+    "next_question_id": 98,
+    "resume_question_id": 98
   }
 }
