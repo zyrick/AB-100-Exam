@@ -1147,13 +1147,25 @@
       "attempted_on": "2026-10-29",
       "session": "learning-mode-1",
       "note": "Original image34.png marks Azure Policy and Purview. Microsoft Learn confirms Defender for Cloud continuously assesses Azure resource compliance, while Purview Compliance Manager ingests Defender findings. User second selection technically defensible; source key questionable."
+    },
+    {
+      "question_id": 94,
+      "selected_answer": "E",
+      "graded_answer": "E",
+      "correct": true,
+      "points_earned": 1,
+      "points_possible": 1,
+      "audit_status": "source_key_with_technical_caveat",
+      "attempted_on": "2026-10-29",
+      "session": "learning-mode-1",
+      "note": "Matches source and audit. Purview governs AI data access and use; Azure Monitor Activity Log handles many resource configuration changes, so question conflates scopes."
     }
   ],
   "summary": {
-    "attempted": 93,
-    "correct": 56,
+    "attempted": 94,
+    "correct": 57,
     "incorrect": 37,
-    "next_question_id": 94,
-    "resume_question_id": 94
+    "next_question_id": 95,
+    "resume_question_id": 95
   }
 }
